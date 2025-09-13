@@ -2,7 +2,7 @@ Una **nación medieval aislacionista, tecnófoba y profundamente espiritual**.
 Su sociedad se sostiene en la **tradición** de **honor**, pureza ritual y veneración solar.  
 
 Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave gracias a sus recursos y su linaje mítico.  
-
+![[Pasted image 20250913205442.png]]
 ---
 ## 📌 Datos Generales
 
@@ -14,8 +14,9 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 | **Rey**                 | [[Rey Arturo Pendragon]]          |
 | **Religión**            | (adoradores del sol o algo asi)   |
 | **Miembros destacados** | [[Caballeros de la Mesa Redonda]] |
-| **Idioma**              | (Teuton)                          |
-| **Bandera**             | ![[CoaMaker.png]]                 |
+| **Idioma**              | Teuton                            |
+| **Bandera**             |                                   |
+|                         | ![[CoaMaker.png]]                 |
 ### ☀️ El Código de Pureza
 > “Ningún fuego forzado ni aliento envenenado tocará el hierro del Dragón.  
 > La mano que forja lo hará con el sol a sus espaldas,  
@@ -89,8 +90,8 @@ Monarquía feudal teocrática de linaje Pendragon.
 - Símbolos nacionales y lo que representan.
 ---
 ## 📚Diplomacia
-### Enemigos:
+#### Enemigos:
 - Imperium Deus Ex Machina
-### Aliados:
+#### Aliados:
 - No hay xd
 
