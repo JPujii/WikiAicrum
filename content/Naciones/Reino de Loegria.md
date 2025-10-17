@@ -3,8 +3,6 @@ Su sociedad se sostiene en la **tradición** de **honor**, pureza ritual y vener
 
 Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave gracias a sus recursos y su linaje mítico.  
 
-![[Pasted image 20250913205442.png]]
-
 ---
 ## 📌 Datos Generales
 
@@ -13,7 +11,7 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 | **Gentilicio**          | Loegrenses                        |
 | **Sistema de Gobierno** | Monarquía absoluta                |
 | **Rey**                 | [[Rey Arthur Pendragon]]          |
-| **Religión**            | Custodia del Grial                |
+| **Religión**            | Custodio del Grial                |
 | **Miembros destacados** | [[Caballeros de la Mesa Redonda]] |
 | **Idioma**              | Teuton                            |
 | **Bandera**             |                                   |
@@ -79,7 +77,7 @@ Monarquía feudal teocrática de linaje Pendragon.
 - **Tabúes:**
   - Usar o poseer tecnología avanzada es considerado herejía.
   - Navegar mar adentro o construir sobre el agua es un sacrilegio.
- - Hablar de la “Primera Nación” está mal visto entre los nobles más tradicionales.
+  - Hablar de la “Primera Nación” está mal visto entre los nobles más tradicionales.
 	 
 - **Arte, arquitectura y literatura**:
   La estética loegrense combina la **robustez medieval** con la **melancolía de la ruina sagrada**.  
@@ -116,48 +114,48 @@ Monarquía feudal teocrática de linaje Pendragon.
   - Turismo religioso (peregrinos a reliquias y tumbas de héroes).  
 ---
 ## 🔮 Mitos y Simbolismo
-### **El Lago que Recuerda**
+#### **El Lago que Recuerda**
 
 Se dice que bajo la superficie de los lagos loegrianos duermen las memorias del mundo anterior.  
 Quien contemple su reflejo durante la luna llena puede ver no su rostro, sino sus vidas pasadas… o las de aquellos que destruyeron el mundo.  
 Muchos peregrinos han desaparecido intentando ver “la verdad del agua”. Por eso los lagos son lugares prohibidos, sellados con runas de advertencia.
 
 ---
-### **El Juramento del Grial**
+#### **El Juramento del Grial**
 
 Una leyenda afirma que solo un corazón sin pecado puede ver el **Grial Verdadero**, y que todos los demás verán un simple cáliz de piedra.  
 Los caballeros que lo encuentran y lo beben obtienen una visión del fin del mundo, quedando ciegos o enmudecidos para siempre.  
 Por eso, entre los loegrianos, la ceguera es considerada un signo de santidad.
 
 ---
-### **Los Susurros de la Lluvia**
+#### **Los Susurros de la Lluvia**
 
 Cuando llueve sin cesar, los campesinos dicen que el cielo llora por los pecados del pasado.  
 Escuchar la lluvia en silencio es una forma de penitencia; pero si alguien canta o ríe bajo la lluvia, se dice que su voz atrae a los “Espíritus del Diluvio”, sombras que buscan arrastrar a los impuros al agua estancada.
 
 ---
-### **El Árbol del Ahorcado**
+#### **El Árbol del Ahorcado**
 
 En muchos caminos rurales hay antiguos robles retorcidos conocidos como Árboles del Ahorcado.  
 Se cree que en tiempos de guerra, los traidores eran ejecutados en ellos y sus almas quedaron atrapadas en la madera.  
 Por eso los loegrianos nunca cortan madera de esos árboles: dicen que su savia es sangre maldita, y que los muebles hechos con ella lloran por las noches.
 
 ---
-### **La Doncella de Piedra**
+#### **La Doncella de Piedra**
 
 En la catedral de [[Camelot]] hay una estatua sin nombre de una mujer con una copa en las manos.  
 Los fieles creen que es **Viviana**, la amante de Merlín.
 Se dice que, cuando la naturaleza está en peligro, lágrimas verdaderas caen de sus ojos de mármol.
 
 ---
-### **Los Ecos de las Montañas**
+#### **Los Ecos de las Montañas**
 
 Los loegrenses creen que las montañas repiten los pecados de los hombres.  
 Por eso, cuando un viajero grita y oye su eco, debe responder con una oración o tres golpes de espada al aire, para no “despertar a los ecos culpables”.  
 Los niños aprenden desde pequeños a nunca pronunciar blasfemias en los valles cerrados.
 
 ---
-### **El Caballero sin Nombre**
+#### **El Caballero sin Nombre**
 
 Una figura legendaria que recorre los caminos al anochecer.  
 Viste armadura negra y su escudo no tiene emblema.  
@@ -165,28 +163,28 @@ A quienes encuentra, les ofrece una elección: beber de su copa y olvidar todos 
 Nadie sabe cuál de las dos opciones es la maldición.
 
 ---
-### **Las Campanas del Amanecer**
+#### **Las Campanas del Amanecer**
 
 Cada amanecer, las iglesias de Loegria tocan tres veces sus campanas.  
 No es un simple rito: según la superstición, el sonido ahuyenta a los “Durmientes del Lago”, espectros que emergen con el rocío buscando almas para reemplazar las suyas perdidas.  
 Si una campana no suena, todo el pueblo debe guardar silencio ese día, o arriesgarse a atraer la desgracia.
 
 ---
-### **El Miedo a los Espejos**
+#### **El Miedo a los Espejos**
 
 Los loegrenses consideran los espejos objetos peligrosos, pues se cree que reflejan el alma, no el cuerpo.  
 Tener uno en casa puede atraer al “Reflejo Impío”, una sombra que copia los gestos de su dueño hasta que logra intercambiar lugares con él.  
 Por eso, los nobles se miran solo en agua bendita o metal bruñido, nunca en vidrio.
 
 ---
-### **Las Hadas de la Ceniza**
+#### **Las Hadas de la Ceniza**
 
 En los hogares, se dice que pequeños espíritus llamados “hadas de la ceniza” viven entre los restos de los fuegos apagados.  
 Son protectoras del hogar si se las respeta, pero vengativas si se les arroja agua.  
 Por eso, los loegrianos nunca apagan el fuego con agua: lo dejan morir lentamente, como a un alma vieja que debe descansar.
 
 ---
-### **El Juramento del Silencio**
+#### **El Juramento del Silencio**
 
 En algunas aldeas, se cree que cada palabra pronunciada después del anochecer alimenta a los demonios del pasado.  
 Por eso, los campesinos practican el “Silencio de la Luna”: desde el ocaso hasta el amanecer, nadie habla.  
