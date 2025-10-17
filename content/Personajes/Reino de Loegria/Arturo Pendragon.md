@@ -5,17 +5,16 @@
 
 
 > [!infobox]+ **Arturo Pendragon**
-> **Epítetos:** El Príncipe Exiliado
-> **Nacimiento:** XIX/IV/VIIDCCCXLIV (120 años)
-> **Nacimiento Terrestre**: 19/04/7844 
+> **Epítetos:** El Príncipe Exiliado  
+> **Nacimiento:** XIX/IV/VIIDCCCXLIV (120 años)  
+> **Nacimiento Terrestre**: 19/04/7844  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
-> **Ocupación:** Ex-Escudero, Exiliado
+> **Ocupación:** Ex-Escudero, Exiliado  
 > **Linaje / Casa:** Casa Pendragon  
-> **Religión:** Custodio del Grial
-> **Arcano Mayor:** El Sol
+> **Religión:** Custodio del Grial  
+> **Arcano Mayor:** El Sol  
 ---
-
 ## 🕊️ Historia
 
 Arturo Pendragon es el hijo menor del rey **[[Rey Arthur Pendragon]]**, nacido en el ocaso de la Edad Dorada de Loegria.  
@@ -45,6 +44,7 @@ Su debilidad, según sus detractores, es su empatía; según quienes lo conocen 
 ## 🤝 Relaciones
 
 > [!infobox]+ **Familia**
-> **Padres:** [[Rey Arthur Pendragon]], [[Reina Ginebra]]
-> **Hermanos:** [[Olwen Pendragon]], [[Mordred]] (medio hermano)
+> **Padres:** [[Rey Arthur Pendragon]], [[Reina Ginebra]]  
+> **Hermanos:** [[Olwen Pendragon]], [[Mordred]] (medio hermano)  
 ---
+
