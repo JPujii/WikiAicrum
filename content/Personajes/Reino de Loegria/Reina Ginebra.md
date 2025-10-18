@@ -8,9 +8,9 @@
 > **Nacimiento:** Desconocido (≈ 2597 años)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
-> **Ocupación:** Monarca
+> **Ocupación:** Monarca  
 > **Linaje / Casa:** Casa Pendragon  
-> **Religión:** Custodio del Grial
+> **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Emperatriz
 ---
 
@@ -38,7 +38,7 @@ Su mirada, encendida por el fuego del orgullo, deja claro que cada gesto suyo es
 ## 🤝 Relaciones
 
 > [!infobox]+ **Familia**
-> **Esposo:** [[Rey Arthur Pendragon]]
+> **Esposo:** [[Rey Arthur Pendragon]]  
 > **Hijos:** [[Olwen Pendragon]], [[Arturo Pendragon]]
 ---
 
