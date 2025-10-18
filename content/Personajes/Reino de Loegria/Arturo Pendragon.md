@@ -5,7 +5,8 @@
 
 
 > [!infobox]+ **Arturo Pendragon**
-> **Epítetos:** El Príncipe Exiliado  
+> **Epítetos:** El Príncipe Risueño, El Príncipe Exiliado  
+> **Fábulas:** El Sol y la Luna  
 > **Nacimiento:** XIX/IV/VIIDCCCXLIV (120 años)  
 > **Nacimiento Terrestre**: 19/04/7844  
 > **Estado actual:** Vivo  
@@ -38,7 +39,7 @@ Su debilidad, según sus detractores, es su empatía; según quienes lo conocen 
 ---
 ## 👁️ Apariencia
 
-
+Arturo es un joven de cabello castaño claro y desordenado, con ojos azulados. Su complexión es delgada pero firme, y su armadura, rayada por el uso, refleja su esfuerzo más que su destreza. Suele llevar una capa verde que suaviza su aspecto, dando una sensación entre descuido y calidez. Su presencia transmite inocencia y cansancio a partes iguales.
 
 ---
 ## 🤝 Relaciones
@@ -48,3 +49,8 @@ Su debilidad, según sus detractores, es su empatía; según quienes lo conocen 
 > **Hermanos:** [[Olwen Pendragon]], [[Mordred]] (medio hermano)  
 ---
 
+- **Arthur Pendragon (padre):** Relación fracturada. Lo exilió por considerarlo indigno de su sangre. Arturo lo ama aún, pero teme su mirada más que la muerte.  
+- **Olwen Pendragon (hermano mellizo):** La sombra que nunca pudo alcanzar. Lo admira profundamente, aunque su existencia le recuerda constantemente su propia insuficiencia.  
+- **Mordred Pendragon (medio hermano):** Comparten la marca del rechazo, aunque sus caminos son opuestos.  
+- **El Pueblo de Loegria:** Lo recuerdan como *“el príncipe risueño”*, aquel que hacía reír incluso a los guardias. Pocos saben lo que hay tras esa sonrisa.  
+- **El Grial:** Objeto de su devoción y único vínculo espiritual con su tierra. Lo considera su redención y su condena.
