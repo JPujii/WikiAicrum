@@ -44,6 +44,7 @@ Su armadura —plateada y ornamentada con motivos solares— refleja la luz como
 > **Padres:** 
 > **Esposa:** [[Reina Ginebra]]
 > **Hijos:** [[Olwen Pendragon]], [[Arturo Pendragon]], [[Mordred]] (bastardo)
+> Hermanos: [[Morgana]]
 ---
  
 
