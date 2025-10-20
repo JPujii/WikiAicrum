@@ -8,9 +8,10 @@
 > **Nacimiento:** Desconocido (≈ 2964 años)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
+> **Residencia**: [[Camelot]]  
 > **Ocupación:** Monarca, caballero, miembro de los [[Caballeros de la Mesa Redonda]]
 > **Linaje / Casa:** Casa Pendragon  
-> **Religión:** Custodio del Grial
+> **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Emperador
 ---
 
@@ -42,9 +43,9 @@ Su armadura —plateada y ornamentada con motivos solares— refleja la luz como
 
 > [!infobox]+ **Familia**
 > **Padres:** 
-> **Esposa:** [[Reina Ginebra]]
-> **Hijos:** [[Olwen Pendragon]], [[Arturo Pendragon]], [[Mordred]] (bastardo)
-> Hermanos: [[Morgana]]
+> **Esposa:** [[Reina Ginebra]]  
+> **Hijos:** [[Olwen Pendragon]], [[Arturo Pendragon]], [[Mordred]] (bastardo)  
+> **Hermanos**: [[Morgana]] (media hermana), [[Sir Kay]] (hermano adoptivo)  
 ---
  
 

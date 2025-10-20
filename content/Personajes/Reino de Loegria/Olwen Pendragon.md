@@ -10,6 +10,7 @@
 > **Nacimiento Terrestre**: 19/04/7844  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
+> **Residencia:**  [[Camelot]]
 > **Ocupación:** Escudero, Príncipe  
 > **Linaje / Casa:** Casa Pendragon  
 > **Religión:** Custodio del Grial  

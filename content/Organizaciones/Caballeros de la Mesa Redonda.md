@@ -8,3 +8,20 @@ Cada caballero ejerce un rol fundamental dentro de la sociedad:
 - **Comandantes** de ejércitos y defensores del pueblo.
 
 En conclusión, los Doce Caballeros no solo son **héroes venerados**, sino también el **ideal al que todo niño de Loegria aspira**: símbolos de honor, valentía y devoción al Reino y al Sol.
+
+Los 12 miembros y sus herederos:
+
+|        Caballero         |      Escudero       |
+| :----------------------: | :-----------------: |
+| [[Rey Arthur Pendragon]] | [[Olwen Pendragon]] |
+|    [[Rey Pellinore]]     |                     |
+|       [[Sir Kay]]        |                     |
+|       [[Sir Bors]]       |                     |
+|      [[Sir Gawain]]      |                     |
+|      [[Sir Gareth]]      |                     |
+|     [[Sir Tristan]]      |                     |
+|     [[Sir Lamorak]]      |                     |
+|     [[Sir Galahad]]      |                     |
+|     [[Sir Bedivere]]     |                     |
+|     [[Sir Lancelot]]     |                     |
+|     [[Sir Perceval]]     |                     |

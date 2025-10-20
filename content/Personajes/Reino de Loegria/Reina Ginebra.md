@@ -8,6 +8,7 @@
 > **Nacimiento:** Desconocido (≈ 2597 años)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
+> **Residencia**: [[Camelot]]
 > **Ocupación:** Monarca  
 > **Linaje / Casa:** Casa Pendragon  
 > **Religión:** Custodio del Grial  
