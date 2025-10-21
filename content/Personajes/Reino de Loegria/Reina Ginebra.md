@@ -17,6 +17,7 @@
 
 ## 🕊️ Historia
 
+**Pasado**:
 Ginebra ascendió al trono de Loegria junto a Arthur Pendragon, en una unión que selló más alianzas que afectos. Pese a su origen incierto, su inteligencia, magnetismo y autoridad natural la consolidaron como una figura temida y venerada. Su influencia se extiende más allá de los salones reales: domina la política con una sonrisa y destruye reputaciones con un susurro.
 
 Bajo su reinado, la corte se convirtió en un terreno de seducción, poder y secretos. Los nobles la llaman “la Emperatriz Solar”, pero muchos temen que su brillo sea fuego disfrazado de luz.

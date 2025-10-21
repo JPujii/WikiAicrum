@@ -10,7 +10,7 @@
 > **Nacimiento Terrestre**: 19/04/7844  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
-> **Residencia:**  [[Camelot]]
+> **Residencia:**  [[Camelot]]  
 > **Ocupación:** Escudero, Príncipe  
 > **Linaje / Casa:** Casa Pendragon  
 > **Religión:** Custodio del Grial  
@@ -19,6 +19,7 @@
 
 ## 🕊️ Historia
 
+**Pasado**:
 Olwen Pendragon nació bajo el mismo cielo y en el mismo instante que su hermano mellizo, **[[Arturo Pendragon]]**, aunque el destino pareció elegir solo a uno de ellos para brillar.  
 Desde su infancia fue proclamado como **el heredero perfecto del linaje solar**, educado para gobernar, luchar y orar. Su vida ha sido una sucesión de pruebas que superó con una excelencia que asombra tanto como oprime.  
 Donde Arturo erraba, Olwen triunfaba. Donde su hermano reía, él aprendió a guardar silencio.

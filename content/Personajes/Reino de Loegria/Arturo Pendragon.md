@@ -18,6 +18,7 @@
 ---
 ## 🕊️ Historia
 
+**Pasado**:
 Arturo Pendragon es el hijo menor del rey **[[Rey Arthur Pendragon]]**, nacido en el ocaso de la Edad Dorada de Loegria.  
 Mientras su hermano mayor, **[[Olwen Pendragon]]**, crecio destinado a la gloria y la guerra, él fue visto como el reflejo imperfecto del linaje solar: amable, curioso, risueño… pero falto de la firmeza que su padre veneraba por encima de todo.
 

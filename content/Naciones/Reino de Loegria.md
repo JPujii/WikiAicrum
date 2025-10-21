@@ -6,16 +6,16 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 ---
 ## 📌 Datos Generales
 
-| **Capital**             | [[Camelot]]                       |
-| ----------------------- | --------------------------------- |
-| **Gentilicio**          | Loegrenses                        |
-| **Sistema de Gobierno** | Monarquía absoluta                |
-| **Rey**                 | [[Rey Arthur Pendragon]]          |
-| **Religión**            | Custodio del Grial                |
-| **Miembros destacados** | [[Caballeros de la Mesa Redonda]] |
-| **Idioma**              | Teuton                            |
-| **Bandera**             |                                   |
-|                         | ![[CoaMaker.png]]                 |
+| **Capital**             | [[Camelot]]                                                                   |
+| ----------------------- | ----------------------------------------------------------------------------- |
+| **Gentilicio**          | Loegrenses                                                                    |
+| **Sistema de Gobierno** | Monarquía absoluta                                                            |
+| **Rey**                 | [[Rey Arthur Pendragon]]                                                      |
+| **Religión**            | Custodio del Grial                                                            |
+| **Miembros destacados** | [[Caballeros de la Mesa Redonda]]<br>[[Reina Ginebra]]<br>[[Olwen Pendragon]] |
+| **Idioma**              | Teuton                                                                        |
+| **Bandera**             |                                                                               |
+|                         | ![[CoaMaker.png]]                                                             |
 ### ☀️ El Código de Pureza
 > “Ningún fuego forzado ni aliento envenenado tocará el hierro del Dragón.  
 > La mano que forja lo hará con el sol a sus espaldas,  
