@@ -9,7 +9,7 @@
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Residencia**: [[Camelot]]  
-> **Ocupación:** Monarca, caballero, miembro de los [[Caballeros de la Mesa Redonda]]
+> **Ocupación:** Monarca, caballero, miembro de los [[Caballeros de la Mesa Redonda]]  
 > **Linaje / Casa:** Casa Pendragon  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Emperador

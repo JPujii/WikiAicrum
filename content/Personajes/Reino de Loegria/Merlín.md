@@ -5,7 +5,7 @@
 
 > [!infobox]+ **Merlín**
 > **Epítetos:** El Sabio de Camelot, El Creador de Leyendas, El Druida, El Mago  
-> **Nacimiento:** Desconocido 
+> **Nacimiento:** Desconocido  
 > **Estado actual:** Desconocido  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Residencia**: [[Camelot]]  
@@ -54,7 +54,7 @@ Su presencia es silenciosa, pero imposible de ignorar.
 ## 🤝 Relaciones
 
 > [!infobox]+ **Vínculos**  
-> **Amante:** [[Viviana o Nimue]] (ex)  
+> **Amante:** [[Viviana]] (ex)  
 > **Alumno:** [[Rey Arthur Pendragon]]  
 
 - **Arthur Pendragon:** Su mayor logro. Ve en Arthur la encarnación del ideal de Loegria.

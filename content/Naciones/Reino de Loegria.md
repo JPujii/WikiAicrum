@@ -36,7 +36,7 @@ A día de hoy (año **7963**), Loegria es una tierra de belleza, misterio y cont
     
 - **Recursos naturales clave:** Minerales que ya me inventare y obras de artesanía metálicas.
     
-- **Ciudades importantes:** [[Camelot]], [[Avalon]], [[Bedegraine]], [[Astolat]], [[London]], [[Winchester]], [[Camlann]].
+- **Ciudades importantes:** [[Camelot]], [[Avalon]], [[Bedegraine]], [[Astolat]], [[London]], [[Winchester]].
 ---
 ## 👑 Gobierno y Sociedad
 
