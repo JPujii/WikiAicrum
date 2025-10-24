@@ -5,11 +5,11 @@
 
 > [!infobox]+ **Arthur Pendragon**
 > **Epítetos:** El Rey Eterno, El Portador de la Espada  
-> **Nacimiento:** Desconocido (≈ 2964 años)  
+> **Nacimiento:** Desconocido (≈ 3764 años)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Residencia**: [[Camelot]]  
-> **Ocupación:** Monarca, caballero, miembro de los [[Caballeros de la Mesa Redonda]]  
+> **Ocupación:** Monarca, Caballero, Miembro de los [[Caballeros de la Mesa Redonda]]  
 > **Linaje / Casa:** Casa Pendragon  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Emperador
@@ -41,7 +41,7 @@ Su armadura —plateada y ornamentada con motivos solares— refleja la luz como
 ---
 ## 🤝 Relaciones
 
-> [!infobox]+ **Familia**
+> [!infobox]+ **Vínculos**
 > **Padres:** 
 > **Esposa:** [[Reina Ginebra]]  
 > **Hijos:** [[Olwen Pendragon]], [[Arturo Pendragon]], [[Mordred]] (bastardo)  

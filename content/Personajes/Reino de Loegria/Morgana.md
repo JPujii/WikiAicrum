@@ -5,12 +5,12 @@
 
 > [!infobox]+ **Morgana**
 > **Epítetos:** La Hechicera de las Mil Promesas, La Madre del Fin  
-> **Nacimiento:** Desconocido (≈ 3156)  
+> **Nacimiento:** Desconocido (≈ 3992)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Residencia**: [[Avalon]]  
 > **Ocupación:** Hechicera, Consejera del Rey  
-> **Linaje / Casa:** ~~Sin Linaje~~  
+> **Linaje / Casa:** Casa Le Fay  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Diablo
 ---

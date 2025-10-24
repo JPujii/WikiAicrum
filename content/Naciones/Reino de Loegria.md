@@ -193,8 +193,8 @@ Solo se comunican con gestos o campanas pequeñas. Se dice que romper el silenci
 ---
 ## 📚Diplomacia
 #### Enemigos:
-- Imperium Deus Ex Machina
+- [[Imperium Deus Ex Machina]]
 #### Neutrales:
-- Tierras Errantes
+- [[Tierras Errantes]]
 - Reino de las Mareas
 
