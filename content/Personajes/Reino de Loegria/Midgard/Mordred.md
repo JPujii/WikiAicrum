@@ -15,6 +15,7 @@
 > **Religión:** Ateo  
 > **Arcano Mayor:** La Torre  
 ---
+
 ## 🕊️ Historia
 
 **Pasado**:

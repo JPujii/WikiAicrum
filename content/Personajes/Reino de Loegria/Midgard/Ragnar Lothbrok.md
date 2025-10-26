@@ -4,7 +4,7 @@
 |        | ![[Modern Barbarian.jpg]] |
 
 > [!infobox]+ Ragnar Lothbrok
-> **Epítetos:** Padre de los Sin Trono, El Que Ríe ante los Dioses, Rey sin Corona  
+> **Epítetos:** Padre de los Desdichados, El Que Ríe ante los Dioses, Rey sin Corona  
 > **Fábulas**: La Serpiente y el Cuervo, La Risa del Abismo  
 > **Nacimiento:** O/XXI/VIMDCXLVI (318 años)  
 > **Nacimiento Terrestre**: 13/13/7646  

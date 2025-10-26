@@ -11,7 +11,7 @@
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
-> **Linaje / Casa:** Casa del Lago
+> **Linaje / Casa:** Casa del Lago  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Fuerza  
 ---
