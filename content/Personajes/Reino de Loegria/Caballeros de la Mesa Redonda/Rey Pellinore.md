@@ -5,7 +5,7 @@
 
 
 > [!infobox]+ **Pellinore de Pelles**  
-> **Epítetos:** El Rey Errante, El Guardián del Laberinto, Señor de Winchester  
+> **Epítetos:** El Rey Errante, El Guardián del Laberinto  
 > **Nacimiento:** Desconocido (≈ 3598 años)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  

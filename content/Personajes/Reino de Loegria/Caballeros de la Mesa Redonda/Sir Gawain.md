@@ -4,7 +4,7 @@
 |        | ![[un-lee-07 (1).jpg]] |
 
 > [!infobox]+ **Sir Gawain**
-> **Epítetos:** El León Escarlata, El Mentor de los Valientes, El Corazón de las Damas  
+> **Epítetos:** El León Escarlata, El Corazón de las Damas  
 > **Nacimiento:** VIII/XIX/VIIDCXXXIII (331 años)  
 > **Nacimiento Terrestre**: 8/19/7633   
 > **Estado actual:** Vivo  

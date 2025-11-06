@@ -44,8 +44,9 @@ Tiene siempre una expresión desafiante, como si estuviera lista para discutir o
 ---
 ## 🤝 Relaciones
 
-> [!infobox]+ **Familia**
+> [!infobox]+ **Vínculos**
 > **Padres:** [[Rey Pellinore]]  
+> **Hermanos:** [[Sir Lamorak]]  
 > **Mejores amigos**: [[Sir Galahad]], [[Sir Gawain]]  
 ---
 

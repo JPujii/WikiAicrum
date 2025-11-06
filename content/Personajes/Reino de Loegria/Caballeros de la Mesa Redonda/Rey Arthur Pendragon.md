@@ -4,7 +4,7 @@
 |              | ![[descargar (2).jpeg]] |
 
 > [!infobox]+ **Arthur Pendragon**
-> **Epítetos:** El Rey Eterno, El Portador de la Espada  
+> **Epítetos:** El Rey Eterno, El Portador de la Espada, El Elegido  
 > **Nacimiento:** Desconocido (≈ 3764 años)  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  

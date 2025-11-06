@@ -4,7 +4,7 @@
 |        | ![[un-lee-dragon-slayer-04-01-resized.jpg]] |
 
 > [!infobox]+ **Sir Gareth**
-> **Epítetos:** El Centinela, El Lobo de la Frontera, El Acero de Bedegraine  
+> **Epítetos:** El Centinela, El Acero de Bedegraine  
 > **Nacimiento:** II/XI/VIIDCXXXVII (327 años)  
 > **Nacimiento Terrestre**: 4/11/7637  
 > **Estado actual:** Vivo  
