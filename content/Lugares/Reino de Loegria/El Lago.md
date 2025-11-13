@@ -1,6 +1,6 @@
-Se encuentra cerca de [[Avalon]]. el lugar mas sagrado de loegria pues aqui llace la piedra de donde arthur saco a excalibur.
+Se encuentra cerca de [[Avalon]]. el lugar mas sagrado de loegria pues aqui llace la piedra de donde [[Rey Arthur Pendragon]] saco la Excalibur.
 
-A pesar del odio hacia el agua en el mundo de Aicrum, ese lago es especial muy especial. Aun a dia de hoy es respetado y venerado como el lugar mas sagrado de loegria.
+A pesar del odio hacia el agua en el mundo de Aicrum, ese lago es especial, muy especial. Aun a dia de hoy es respetado y venerado como el lugar mas sagrado del [[Reino de Loegria]].
 
 ![[jose-miguel-dominguez-bobillo-lady-lake-daytime-josemigueldominguez.jpg]]
 ![[julian-calle-magical-forest-002.jpg]]

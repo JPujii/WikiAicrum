@@ -8,7 +8,7 @@
 > **Nacimiento:** Desconocido  
 > **Estado actual:** Viva  
 > **Afiliación:** [[Reino de Loegria]]  
-> **Residencia**:   
+> **Residencia**: [[Astolat]]  
 > **Ocupación:** Botánica  
 > **Linaje / Casa:** ~~Sin Linaje~~  
 > **Religión:** Custodio del Grial  

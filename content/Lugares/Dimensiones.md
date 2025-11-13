@@ -5,8 +5,8 @@ El mundo de Aicrum no es una realidad única, sino un entramado de planos existe
 Viajar entre estas dimensiones no es algo trivial. Requiere rituales, objetos específicos o estados mentales particulares. Y cada plano cobra su precio a quienes lo atraviesan.
 
 ---
-
-## 🌍 EL NUDO _(Dimensión Principal)_
+## 🌍 EL NUDO 
+_(Dimensión Principal)_
 
 **"La realidad que todos conocemos... o creemos conocer."**
 
@@ -17,7 +17,6 @@ Sin embargo, el Nudo no es tan estable como parece: está constantemente influen
 **Es el punto de anclaje de toda existencia consciente, pero también el más vulnerable a las fuerzas dimensionales.**
 
 ---
-
 ## 📖 EL SUSTRATO
 
 **"Una realidad hecha de recuerdos e historias olvidadas."**
@@ -62,11 +61,11 @@ Si fallas, te conviertes en uno de los Apagados.
 
 ### El Sustrato es:
 
-**La Memoria Colectiva. El Olvido. Lo que fue y ya no es recordado.**
+**La Memoria Colectiva. El Olvido. Lo que fue.**
 
 ---
-
-## 🩸 EL NÚCLEO _(La Dimensión Interna)_
+## 🩸 EL NÚCLEO 
+_(La Dimensión Interna)_
 
 **"Donde el alma se enfrenta a su propia arquitectura."**
 
@@ -111,13 +110,13 @@ Sin embargo, hay un elemento común: una **cámara central** donde vibra un frag
 
 **Los Resonantes** Ecos de otras almas que lograron cruzar a tu Núcleo y quedaron atrapadas. Pueden ser personas que te marcaron profundamente: amantes, enemigos, mentores. Ahora viven como fantasmas en tu interior, influyendo en tus decisiones sin que lo sepas.
 
-**Conceptos Vivos** En los Núcleos de los dioses, arcanos mayores o entidades antiguas, pueden habitar **conceptos vivos**: auténticos mecanismos del destino. El Núcleo del Tiempo podría contener una biblioteca donde cada libro es un segundo que ha ocurrido. El Núcleo de la Muerte podría ser un cementerio infinito donde cada tumba es una vida que terminó.
+**Conceptos Vivos** En los Núcleos de los dioses, arcanos mayores o entidades antiguas, pueden habitar **conceptos vivos**: auténticos mecanismos del destino.
 
 ### Entrada / Salida
 
 **Entrada:**
 
-- Un acto de **introspección absoluta**: meditación extrema, experiencias cercanas a la muerte, o traumas que te obligan a enfrentarte a ti mismo.
+- Un acto de **introspección absoluta**: meditación extrema en un ritual, experiencias cercanas a la muerte, o traumas que te obligan a enfrentarte a ti mismo.
 - Una **conexión espiritual forzada**: rituales que permiten entrar al Núcleo de otra persona, a menudo contra su voluntad.
 
 **Salida:** Requiere **aceptación**. Debes aceptar quién eres realmente, con todas tus contradicciones, traumas y virtudes. Negarte a ver la verdad te condena a:
@@ -125,15 +124,14 @@ Sin embargo, hay un elemento común: una **cámara central** donde vibra un frag
 - **Fragmentación:** Tu identidad se divide en múltiples Fragmentos que pelean entre sí.
 - **Despertar incompleto:** Regresas al Overworld, pero parte de ti queda atrapada en el Núcleo, dejándote vacío o enloquecido.
 
-### Representa
+### El Núcleo es:
 
-**La Verdad. La Identidad. Lo que sostiene.**
+**La Verdad. La Identidad. Lo que es.**
 
 El centro del ser, el latido que mantiene unida la historia personal frente al olvido.
 
 ---
-
-## 🌌 LA TRAMA _(o El Telar)_
+## 🌌 El TELAR
 
 **"Donde las historias aún no contadas esperan ser vividas."**
 
@@ -155,7 +153,7 @@ El cielo está lleno de constelaciones que se reescriben constantemente, mostran
 
 ### Reglas y Efectos
 
-**1. Ver no es vivir** Puedes observar tus vidas alternativas, pero si intentas "habitarlas" tu identidad se fractura entre múltiples líneas temporales. Puedes acabar siendo todas tus versiones a la vez... o ninguna.
+**1. Ver no es vivir** Puedes observar tus vidas alternativas, pero si intentas "habitarlas" tu identidad se fractura entre múltiples líneas temporales. Puedes acabar siendo todas tus versiones a la vez... o ninguna. Y desapareces de tu hilo principal.
 
 **2. Tejer es peligroso** Puedes intentar "tirar" de un hilo para traer una posibilidad al Overworld, pero:
 
@@ -172,7 +170,7 @@ El cielo está lleno de constelaciones que se reescriben constantemente, mostran
 
 **Los Bifurcados** Personas que vivieron dos decisiones incompatibles al mismo tiempo y quedaron fragmentadas. Hablan en plural, cambian de forma según qué "versión" domina. Algunos buscan ayuda para reunificarse; otros buscan multiplicarse aún más, convencidos de que ser "todos los yos posibles" es la verdadera iluminación.
 
-**Las Sombras de lo No-Nacido** Conceptos, inventos o personas que nunca llegaron a existir. Aparecen como siluetas huecas. Algunas suplican por nacer; otras están **furiosas** por haber sido negadas y buscan venganza contra quienes tomaron las decisiones que las borraron.
+**Las Sombras** Conceptos, inventos o personas que nunca llegaron a existir. Aparecen como siluetas huecas. Algunas suplican por nacer; otras están **furiosas** por haber sido negadas y buscan venganza contra quienes tomaron las decisiones que las borraron.
 
 **Los Cosechadores de Hilo** Seres que roban posibilidades ajenas para venderlas en otros planos. Parecen mercaderes amables, pero sus transacciones siempre tienen trampa: compras un futuro mejor, pero descubres demasiado tarde que vendiste tu pasado.
 
@@ -182,8 +180,7 @@ El cielo está lleno de constelaciones que se reescriben constantemente, mostran
 
 **Entrada:**
 
-- A través de **momentos de indecisión absoluta**: encrucijadas vitales donde no sabes qué elegir y el peso de la decisión te paraliza.
-- Usando **objetos de "camino cortado"**: una carta nunca enviada, un anillo de compromiso rechazado, un contrato roto, una espada que no llegaste a desenvainar.
+- **Cortando un hilo** destinado a ocurrir. Esto puede **acarrear problemas** a futuro en el hilo principal.
 - Rituales que requieren **confesar un arrepentimiento profundo** ante un Tejedor.
 
 **Salida:**
@@ -200,9 +197,9 @@ El cielo está lleno de constelaciones que se reescriben constantemente, mostran
 
 **Las Historias Hambrientas** Narrativas abortadas que se volvieron conscientes y ahora buscan forzar su realización usando a viajeros como títeres. Pueden poseerte y obligarte a cumplir su trama, sin importar lo destructiva que sea.
 
-### Representa
+### El Telar es:
 
-**La Posibilidad. El Potencial. Las Decisiones. El futuro no escrito.**
+**La Posibilidad. El Potencial. Las Decisiones. Lo que será.**
 
 ---
 ## 🌀 LA HENDIDURA
@@ -219,7 +216,7 @@ No es un vacío pasivo: **respira, digiere y corrompe**.
 
 ### Apariencia
 
-Una grieta negra que respira, con virutas de luz y sonido siendo absorbidas constantemente hacia su centro. Al acercarte, puedes ver fragmentos de otros mundos arremolinándose: paisajes rotos, objetos a medio desintegrar, rostros distorsionados gritando en silencio.
+Una espacio negro que respira, con virutas de luz y sonido siendo absorbidas constantemente hacia su centro. Al acercarte, puedes ver fragmentos de otros mundos arremolinándose: paisajes rotos, objetos a medio desintegrar, rostros distorsionados gritando en silencio.
 
 El espacio aquí no obedece geometría alguna. Puedes caminar hacia adelante y terminar atrás, o caer hacia arriba.
 
@@ -232,15 +229,12 @@ El espacio aquí no obedece geometría alguna. Puedes caminar hacia adelante y t
 - **Dislocación temporal:** En raras ocasiones, puedes aparecer en el Overworld **antes o después de haber partido**. Esto crea paradojas que la Hendidura aprovecha para expandirse.
     
 - **Corrupción de la identidad:** Permanecer demasiado tiempo distorsiona tu propia persona. Puedes olvidar tu nombre, intercambiar recuerdos con versiones alternativas de ti, o fragmentarte en múltiples "yos" contradictorios.
-    
 
 ### Habitantes
 
 **Los Devoradores de Ley** Entidades amorfas que se alimentan de consistencia. Absorben las reglas que mantienen unidos los objetos y conceptos: la gravedad, la causalidad, la identidad. Donde pasan, solo queda caos primordial.
 
 **Los Reflejos Rotos** Versiones corruptas de quienes han pasado por la Hendidura. No son copias exactas: son lo que serías si todas tus peores decisiones hubieran sido tomadas simultáneamente. Buscan reemplazar a su "original" en el Overworld.
-
-**Los Parásitos de Posible** Criaturas que existen en múltiples estados cuánticos a la vez, usando futuros probables para subsistir. Pueden atacarte con heridas que "todavía no te han hecho" o defenderse esquivando golpes que "ya recibieron en otra línea temporal".
 
 ### Entrada / Salida
 
@@ -250,66 +244,9 @@ El espacio aquí no obedece geometría alguna. Puedes caminar hacia adelante y t
 
 Algunos prefieren quedarse y convertirse en Reflejos antes que pagar ese precio.
 
-### Representa
+### La Hendidura es:
 
-**El Caos. La Entropía. La muerte de las leyes. El espacio entre lo que es.**
-
----
-
-## 🎭 LA MASCARADA
-
-**"Un reino donde las ánimas son forzadas a adoptar máscaras que definen su rol eterno."**
-
-### Concepto
-
-El Inframundo de las Máscaras es un plano teatral donde cada alma debe adoptar un **arquetipo**: el Amante, el Traidor, el Sabio, el Mártir, el Tirano. Las máscaras no son simples disfraces: **definen quién eres** mientras las llevas.
-
-Algunos entran voluntariamente buscando convertirse en algo más grande. Otros son arrastrados aquí tras la muerte o durante crisis existenciales. Pero todos deben elegir... o ser elegidos.
-
-### Apariencia
-
-Plazas teatrales eternas que se extienden hasta el horizonte. Hay puestos que venden máscaras vivientes (algunas susurran promesas, otras lloran), escenarios donde se representan las mismas tragedias una y otra vez, y auditorios vacíos que aplauden solos.
-
-El paisaje cambia según la máscara que lleves puesta:
-
-- Con la máscara del Héroe, ves campos de batalla gloriosos.
-- Con la del Ermitaño, todo se vuelve ruinas silenciosas.
-- Con la del Loco, el mundo es un carnaval absurdo y peligroso.
-
-### Reglas y Efectos
-
-- **Transformación forzada:** La máscara altera tu personalidad, habilidades y recuerdos. No puedes resistirte conscientemente; actúas según el arquetipo.
-    
-- **Poder fragmentado:** Romper una máscara libera un fragmento de su poder, que puedes absorber. Pero también **fragmenta tu memoria**: olvidas partes de quién eras antes de ponértela.
-    
-- **Máscaras contagiosas:** Algunas máscaras pueden "saltar" de persona a persona. Si alguien con la máscara del Traidor te toca, puedes convertirte en traidor también.
-    
-- **Colección peligrosa:** Usar múltiples máscaras seguidas fragmenta tu identidad permanentemente. Puedes acabar siendo una amalgama de arquetipos contradictorios, incapaz de recordar quién fuiste originalmente.
-    
-
-### Habitantes
-
-**Máscaras con espíritu propio** Arquetipos que han adquirido consciencia tras milenios de uso. La Máscara del Rey Tirano puede negociar contigo, la Máscara de la Doncella Pura puede suplicar ser liberada. Algunas buscan portadores dignos; otras solo quieren existir de nuevo.
-
-**Los Jueces Encapuchados** Figuras sombrías que determinan qué máscara "mereces". No puedes engañarlos: ven tu alma desnuda. Si intentas forzar una máscara que no te corresponde, te castigan convirtiéndote en un Desenmarañado.
-
-**Los Desenmarañados** Colectivos de seres sin máscara, peligrosamente inestables. Sin un arquetipo que los defina, cambian constantemente: un momento son violentos, al siguiente melancólicos, luego seductores. Son impredecibles y a menudo hostiles, pues envidian a quienes tienen identidad definida.
-
-### Entrada / Salida
-
-**Entrada:**
-
-- Rituales de muerte y renacimiento.
-- Aceptar voluntariamente "interpretar un papel" durante una crisis personal.
-- Morir en el Overworld mientras obsesionado con un rol específico (el vengador, el redentor, etc.).
-
-**Salida:** Debes **rechazar tu máscara conscientemente**, aceptando que no eres solo ese arquetipo. Esto requiere fuerza de voluntad extrema, ya que la máscara luchará por permanecer.
-
-Alternativamente, puedes encontrar a alguien dispuesto a intercambiar máscaras contigo, liberándote... a costa de condenarlo a él.
-
-### Representa
-
-**Los Roles. Los Arquetipos. La Identidad Social. Lo que el mundo espera que seas.**
+**El Caos. La Entropía. La muerte de las leyes. El espacio entre lo que fue, es y será.**
 
 ---
 ## 🔗 INTERCONEXIÓN DIMENSIONAL
@@ -328,10 +265,6 @@ Cuando un hilo de la Trama es destrozado violentamente (la aniquilación de todo
 
 Tu Núcleo determina qué hilos de la Trama puedes alcanzar. Si tu esencia cambia profundamente (en el Núcleo), tu constelación de posibilidades se reconfigura. Algunas personas viajan a su Núcleo precisamente para **abrir nuevos futuros** que antes les estaban vedados.
 
-### El Inframundo de las Máscaras ↔ La Trama
-
-Las máscaras son roles cristalizados; la Trama contiene las versiones fluidas antes de que se solidifiquen en arquetipos. Algunas Máscaras fueron "cosechadas" de la Trama por entidades antiguas que querían fijar ciertos roles eternamente.
-
 ### El Núcleo ↔ El Sustrato
 
 Si pierdes completamente tu identidad en el Sustrato, tu Núcleo comienza a desintegrarse. Inversamente, si comprendes plenamente tu Núcleo, puedes resistir el olvido del Sustrato indefinidamente.
@@ -341,7 +274,6 @@ Si pierdes completamente tu identidad en el Sustrato, tu Núcleo comienza a desi
 La Hendidura es la entropía que acecha en los márgenes de toda dimensión. Cada plano tiene "bordes" donde la realidad se deshilacha y la Hendidura puede filtrarse. Los viajeros dimensionales deben tener cuidado de no acercarse demasiado a estos límites.
 
 ---
-
 ## ⚠️ ADVERTENCIAS PARA VIAJEROS DIMENSIONALES
 
 1. **Nunca viajes sin un ancla:** Cada dimensión tiene su método de salida, pero todos requieren algo que te conecte con tu identidad original. Piérdela y quedarás atrapado.
@@ -357,4 +289,4 @@ La Hendidura es la entropía que acecha en los márgenes de toda dimensión. Cad
 
 ---
 
-**Las dimensiones de Aicrum son un reflejo de la existencia misma: memoria, caos, identidad, esencia y posibilidad. Domínalas, y dominarás la realidad. Ignóralas, y la realidad te dominará a ti.**
+**Las dimensiones de Aicrum son un reflejo de la existencia misma: memoria, caos, identidad y posibilidad. Domínalas, y dominarás la realidad. Ignóralas, y la realidad te dominará a ti.**

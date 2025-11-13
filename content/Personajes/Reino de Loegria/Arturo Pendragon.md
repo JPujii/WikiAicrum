@@ -5,7 +5,7 @@
 
 
 > [!infobox]+ **Arturo Pendragon**
-> **Epítetos:** El Príncipe Risueño, El Príncipe Exiliado  
+> **Epítetos:** El Príncipe Exiliado  
 > **Fábulas:** El Sol y la Luna  
 > **Nacimiento:** XIX/IV/VIIDCCCXLIV (120 años)  
 > **Nacimiento Terrestre**: 19/04/7844  
