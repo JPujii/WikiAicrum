@@ -13,7 +13,6 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 | **Rey**                 | [[Rey Arthur Pendragon]]                                                      |
 | **Religión**            | Custodio del Grial                                                            |
 | **Miembros destacados** | [[Caballeros de la Mesa Redonda]]<br>[[Reina Ginebra]]<br>[[Olwen Pendragon]] |
-| **Idioma**              | Teuton                                                                        |
 | **Bandera**             |                                                                               |
 |                         | ![[CoaMaker.png]]                                                             |
 ### ☀️ El Código de Pureza
@@ -22,19 +21,20 @@ Aunque rechaza la tecnología, su influencia en el equilibrio de poder es clave 
 > el yunque limpio, y el corazón en juramento.”
 ---
 ## 📖 Historia
-El **Reino de Loegria** es una de las naciones más antiguas y emblemáticas del continente occidental de Aicrum. Nacido de los restos de una civilización dividida por el uso de la tecnología antigua, Loegria se define por su rechazo a las máquinas y su profundo respeto por la naturaleza.
+
+El **Reino de Loegria** nació de los restos de una civilización dividida por el uso de la tecnología antigua, Loegria se define por su rechazo a las máquinas y su profundo respeto por la naturaleza.
 
 Durante siglos, el reino ha estado regido por la figura casi mítica del **[[Rey Arthur Pendragon]]**, considerado por muchos como un monarca elegido por las fuerzas naturales para restaurar el equilibrio tras siglos de guerra. Bajo su gobierno, Loegria se convirtió en un bastión de tradiciones, caballería y magia druídica, destacando por su devoción a los ideales de honor, pureza y unidad.
 
 Sin embargo, el reino no está libre de tensiones internas. Las viejas heridas de la guerra civil, la prohibición de la tecnología y la creciente influencia de órdenes caballerescas y clérigos mantienen a Loegria en un equilibrio inestable.  
 Mientras su legendario rey envejece —o quizá trasciende el paso del tiempo—, el futuro del reino recae sobre su heredero y los conflictos latentes entre las distintas facciones del país.
 
-A día de hoy (año **7963**), Loegria es una tierra de belleza, misterio y contradicciones, donde la línea entre mito y realidad se difumina, y donde los ecos del pasado aún resuenan con fuerza en el presente.
+A día de hoy (año **7964**), Loegria es una tierra de belleza, misterio y contradicciones, donde los ecos del pasado aún resuenan con fuerza en el presente.
 ## 🗺️ Geografía
 
 - **Clima:** Tiene un clima *templado con veranos suaves e inviernos fríos*. El oeste tiende a ser más húmedo que el este y las Tierras Altas suelen tener temperaturas más frías que las Tierras Bajas. Suele llover con bastante frecuencia.
     
-- **Recursos naturales clave:** Minerales que ya me inventare y obras de artesanía metálicas.
+- **Recursos naturales clave:** #post 
     
 - **Ciudades importantes:** [[Camelot]], [[Avalon]], [[Bedegraine]], [[Astolat]], [[London]], [[Winchester]].
 ---
@@ -57,19 +57,8 @@ Monarquía feudal teocrática de linaje Pendragon.
   Su sociedad es marcadamente **caballeresca**: el linaje y el servicio definen el valor de una persona, aunque el mérito y la devoción pueden elevar incluso a los nacidos sin nombre.
     
 - **Religión y mitología**:
-  La fe loegrense está profundamente marcada por los mitos de **Arthur** y el **Santo Grial**.
-  El Grial simboliza la pureza inalcanzable y la comunión entre lo humano y lo divino, un ideal que muchos caballeros buscan y pocos comprenden.
-  Excalibur representa el pacto entre el rey y la tierra: un símbolo de justicia, pureza y autoridad espiritual.
-  
-  El agua ocupa un papel ambiguo en su cosmovisión:
-  
-  La lluvia es sagrada, pues se considera una bendición del cielo.
-  
-  El agua estancada (ríos, lagos y mar) es tabú. Se dice que en ella habitan las memorias corruptas de los antiguos y los espíritus que una vez destruyeron el mundo.
-  Por eso, los loegrenses evitan el comercio marítimo y sus ciudades rara vez se construyen junto a grandes ríos o costas.
-  
-  Sus templos combinan piedra viva, vegetación y altares abiertos al cielo; el culto se realiza mirando hacia arriba, no hacia dentro.    
-	
+  La fe loegrense, [[Custodios del Grial]], está profundamente marcada por los mitos de **Arthur** y el **Santo Grial**.
+
 - **Rituales, festividades, tabúes**:
   - **El Juramento del Cáliz**: ceremonia donde los aspirantes a caballeros beben agua bendecida por la lluvia para sellar su fe.
   - **El Día del Nacimiento del Rey**: celebración anual donde se representan escenas de la unificación de Loegria y se bendicen las armas de los jóvenes escuderos.
@@ -194,6 +183,8 @@ Solo se comunican con gestos o campanas pequeñas. Se dice que romper el silenci
 ## 📚Diplomacia
 #### Enemigos:
 - [[Imperium Deus Ex Machina]]
+#### Hostiles:
+* [[República de Soa'rath]]
 #### Neutrales:
 - [[Tierras Errantes]]
 - Reino de las Mareas

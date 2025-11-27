@@ -1,3 +1,4 @@
+Escuderos del [[Reino de Loegria]] y [[Caballeros de la Mesa Redonda]]
 
 | ![[GzB4FHwWsAAPHdt.jpg]]<br><br>             | ![[GzdOQbTX0AA_S0n.jpg]]        | Escudero de Bors o Gawain?              |
 | -------------------------------------------- | ------------------------------- | --------------------------------------- |

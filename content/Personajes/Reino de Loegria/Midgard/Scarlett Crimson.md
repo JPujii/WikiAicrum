@@ -22,7 +22,7 @@
 ## 🕊️ Historia
 
 **Pasado:**
-Scarlett Crimson es una de las pocas vástagas conocidas del [[Dragón Escarlata]], una aberración que no debería haber nacido. Su mera existencia es un recordatorio del pacto maldito entre los hombres y las bestias antiguas, un error del que la historia misma intenta olvidarse.
+Scarlett Crimson es una de las pocas vástagas conocidas del [[Dragón Escarlata (sin hacer)]], una aberración que no debería haber nacido. Su mera existencia es un recordatorio del pacto maldito entre los hombres y las bestias antiguas, un error del que la historia misma intenta olvidarse.
 
 Desde su infancia fue rechazada, temida y cazada. Su cuerpo, marcado por escamas y fuego, era para los humanos un presagio de destrucción. Vagó sin rumbo hasta que fue acogida por **Midgard**, donde por primera vez fue tratada no como un monstruo, sino como una persona. Allí encontró un propósito y un lugar al que llamar hogar.
 
@@ -47,7 +47,7 @@ A menudo viste ropas con poca tela para mostrar su forma verdadera con orgullo.
 ## 🤝 Relaciones
 
 > [!infobox]+ **Vínculos**  
-> **Creador / Padre:** [[Dragón Escarlata]]
+> **Creador / Padre:** [[Dragón Escarlata (sin hacer)]]
 
 - **Dragón Escarlata:**  Lo odia con cada fibra de su ser; es el símbolo de su maldición.  
 - **Ragnar Lothbrok:** Lo respeta como líder y lo considera el primero en verla como alguien “real”.  

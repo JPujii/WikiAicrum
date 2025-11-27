@@ -240,7 +240,7 @@ El espacio aquí no obedece geometría alguna. Puedes caminar hacia adelante y t
 
 **Entrada:** No se entra voluntariamente. Solo basta con **hacer mal la entrada a otra dimensión**. Si al cambiar de plano algo sale mal en el proceso (ritual interrumpido, portal inestable, ancla perdida), lo más probable es que acabes en la Hendidura.
 
-**Salida:** Salir a menudo cuesta un precio terrible: **la historia de una persona, de un objeto, o de un concepto entero**. Esa persona, objeto o idea **muere para siempre**, borrada de todas las líneas temporales y dimensiones. Ni siquiera el Sustrato la recordará.
+**Salida:** Salir a menudo cuesta un precio terrible: **la historia de una persona o de un objeto**. Esa persona u objeto **muere para siempre**, borrada de todas las líneas temporales y dimensiones. Ni siquiera el Sustrato la recordará.
 
 Algunos prefieren quedarse y convertirse en Reflejos antes que pagar ese precio.
 

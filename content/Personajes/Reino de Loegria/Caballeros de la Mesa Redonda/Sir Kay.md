@@ -42,4 +42,4 @@ Su armadura, de **placas segmentadas blancas y doradas**, está diseñada para e
 ## 🤝 Relaciones
 
 - **[[Rey Arthur Pendragon]]:** Su hermano por juramento y su rey. Entre ambos hay una confianza que trasciende la vida y la divinidad. Arthur confía en Kay el trono cuando debe ausentarse, sabiendo que no hay alma más leal en todo Loegria.
-- **[[Rey Pellinore]]:** Viejo aliado y compañero de armas. Ambos comparten el mismo rumor de longevidad y la misma fe en el Grial.
+- **[[Rey Pellinore (cambiar)]]:** Viejo aliado y compañero de armas. Ambos comparten el mismo rumor de longevidad y la misma fe en el Grial.

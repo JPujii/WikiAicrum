@@ -41,30 +41,30 @@ En conversaciones cotidianas, se abrevia:
 ---
 ## 🜃 Las 22 Arcanidades del Año
 
-|**Nº**|**Arcano**|**Nombre de la Arcanidad**|**Simbolismo y Efectos**|
-|---|---|---|---|
-|**0**|El Loco|**Apertura**|Inicio del ciclo anual. Tiempo de nuevos comienzos, imprudencia bendita e inocencia. Los viajes iniciados en Apertura están marcados por lo inesperado.|
-|**I**|El Mago|**Voluntad**|Mes de creación, aprendizaje y manifestación. Artesanos, magos y estudiosos consideran este mes el más propicio para sus trabajos.|
-|**II**|La Sacerdotisa|**Silencio**|Introspección, misterio y secretos revelados. Las visiones proféticas son más comunes. Tiempo de consultar oráculos y estudiar lo oculto.|
-|**III**|La Emperatriz|**Florecimiento**|Fertilidad, abundancia y crecimiento. Las cosechas son bendecidas, los matrimonios celebrados y los nacimientos auguran buena fortuna.|
-|**IV**|El Emperador|**Dominio**|Orden, leyes y jerarquía. Los juicios legales, coronaciones y tratados diplomáticos se firman preferentemente en Dominio.|
-|**V**|El Hierofante|**Dogma**|Ritos, enseñanza y tradición. Mes sagrado para ceremonias religiosas, ordenaciones sacerdotales y transmisión de conocimiento ancestral.|
-|**VI**|Los Enamorados|**Vínculo**|Unión, alianzas y decisiones cruciales. Época de bodas, pactos de sangre y elecciones que definen el destino.|
-|**VII**|El Carro|**Conquista**|Movimiento, expansión y viajes épicos. Los ejércitos marchan en Conquista, y los mercaderes emprenden rutas comerciales arriesgadas.|
-|**VIII**|La Justicia|**Equilibrio**|Juicios, acuerdos y karma. Tiempo de resolver disputas, saldar deudas y buscar compensación por agravios. Se dice que las mentiras dichas en Equilibrio acarrean maldiciones.|
-|**IX**|El Ermitaño|**Retiro**|Sabiduría, aislamiento y revelación. Mes de ayuno, meditación y peregrinajes solitarios. Los ermitaños y druidas consideran este tiempo sagrado.|
-|**X**|La Rueda|**Destino**|Cambio, suerte y ciclos. La fortuna es volátil en Destino: grandes victorias y terribles caídas ocurren sin aviso. Los jugadores y apostadores prosperan... o se arruinan.|
-|**XI**|La Fuerza|**Valor**|Coraje, autodominio y resistencia. Mes de pruebas físicas y espirituales. Los guerreros se entrenan, y los cobardes son expuestos.|
-|**XII**|El Colgado|**Sacrificio**|Espera, entrega y transformación. Tiempo de ofrendas, penitencias y decisiones que requieren renunciar a algo valioso. Los prisioneros ejecutados en Sacrificio son considerados mártires.|
-|**XIII**|La Muerte|**Umbral Menor**|Fin de ciclo, renacimiento y transición. No es un mes de luto, sino de transformación: los ancianos mueren en paz, los enfermos sanan misteriosamente, y lo viejo da paso a lo nuevo.|
-|**XIV**|La Templanza|**Armonía**|Curación, equilibrio interno y moderación. Mes de recuperación tras conflictos. Los sanadores tienen más éxito, y las reconciliaciones son posibles.|
-|**XV**|El Diablo|**Deseo**|Tentación, pasión y poder. Época de excesos, lujuria y ambición desatada. Los cultos oscuros realizan sus rituales más poderosos en Deseo.|
-|**XVI**|La Torre|**Caída**|Ruina, revelación violenta y castigo divino. Mes temido: los secretos se exponen, las estructuras corruptas colapsan, y las traiciones salen a la luz. Las tormentas son más feroces en Caída.|
-|**XVII**|La Estrella|**Esperanza**|Renovación, fe y visiones inspiradoras. Después de la destrucción de Caída, llega Esperanza: tiempo de reconstrucción, inspiración artística y sueños proféticos benévolos.|
-|**XVIII**|La Luna|**Sombras**|Sueños, locura y magia. El velo entre el Overworld y las otras dimensiones se adelgaza. Las pesadillas son vívidas, y los hechizos lunares son más potentes. Época de ilusiones y engaños.|
-|**XIX**|El Sol|**Éxtasis**|Iluminación, júbilo y claridad. Mes de festivales, celebraciones y revelaciones gozosas. La luz del sol parece más brillante, y las depresiones se disipan.|
-|**XX**|El Juicio|**Despertar**|Renacimiento, redención y juicio final. Tiempo de evaluar el año transcurrido, perdonar ofensas y prepararse para el cierre del ciclo. Los muertos que regresan (por magia o milagro) suelen hacerlo en Despertar.|
-|**XXI**|El Mundo|**Plenitud**|Culminación, unidad y cierre del año. Mes de gratitud, celebración de logros y preparación para El Umbral. Las grandes obras se completan en Plenitud.|
+| **Nº**    | **Arcano**     | **Nombre de la Arcanidad** | **Simbolismo y Efectos**                                                                                                                                                                                           |
+| --------- | -------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **0**     | El Loco        | **Apertura**               | Inicio del ciclo anual. Tiempo de nuevos comienzos, imprudencia bendita e inocencia. Los viajes iniciados en Apertura están marcados por lo inesperado.                                                            |
+| **I**     | El Mago        | **Voluntad**               | Mes de creación, aprendizaje y manifestación. Artesanos, magos y estudiosos consideran este mes el más propicio para sus trabajos.                                                                                 |
+| **II**    | La Sacerdotisa | **Silencio**               | Introspección, misterio y secretos revelados. Las visiones proféticas son más comunes. Tiempo de consultar oráculos y estudiar lo oculto.                                                                          |
+| **III**   | La Emperatriz  | **Florecimiento**          | Fertilidad, abundancia y crecimiento. Las cosechas son bendecidas, los matrimonios celebrados y los nacimientos auguran buena fortuna.                                                                             |
+| **IV**    | El Emperador   | **Dominio**                | Orden, leyes y jerarquía. Los juicios legales, coronaciones y tratados diplomáticos se firman preferentemente en Dominio.                                                                                          |
+| **V**     | El Hierofante  | **Dogma**                  | Ritos, enseñanza y tradición. Mes sagrado para ceremonias religiosas, ordenaciones sacerdotales y transmisión de conocimiento ancestral.                                                                           |
+| **VI**    | Los Enamorados | **Vínculo**                | Unión, alianzas y decisiones cruciales. Época de bodas, pactos de sangre y elecciones que definen el destino.                                                                                                      |
+| **VII**   | El Carro       | **Conquista**              | Movimiento, expansión y viajes épicos. Los ejércitos marchan en Conquista, y los mercaderes emprenden rutas comerciales arriesgadas.                                                                               |
+| **VIII**  | La Justicia    | **Equilibrio**             | Juicios, acuerdos y karma. Tiempo de resolver disputas, saldar deudas y buscar compensación por agravios. Se dice que las mentiras dichas en Equilibrio acarrean maldiciones.                                      |
+| **IX**    | El Ermitaño    | **Retiro**                 | Sabiduría, aislamiento y revelación. Mes de ayuno, meditación y peregrinajes solitarios. Los ermitaños y druidas consideran este tiempo sagrado.                                                                   |
+| **X**     | La Rueda       | **Destino**                | Cambio, suerte y ciclos. La fortuna es volátil en Destino: grandes victorias y terribles caídas ocurren sin aviso. Los jugadores y apostadores prosperan... o se arruinan.                                         |
+| **XI**    | La Fuerza      | **Valor**                  | Coraje, autodominio y resistencia. Mes de pruebas físicas y espirituales. Los guerreros se entrenan, y los cobardes son expuestos.                                                                                 |
+| **XII**   | El Colgado     | **Sacrificio**             | Espera, entrega y transformación. Tiempo de ofrendas, penitencias y decisiones que requieren renunciar a algo valioso. Los prisioneros ejecutados en Sacrificio son considerados mártires.                         |
+| **XIII**  | La Muerte      | **Transformación**         | Fin de ciclo, renacimiento y transición. No es un mes de luto, sino de transformación: los ancianos mueren en paz, los enfermos sanan misteriosamente, y lo viejo da paso a lo nuevo.                              |
+| **XIV**   | La Templanza   | **Armonía**                | Curación, equilibrio interno y moderación. Mes de recuperación tras conflictos. Los sanadores tienen más éxito, y las reconciliaciones son posibles.                                                               |
+| **XV**    | El Diablo      | **Deseo**                  | Tentación, pasión y poder. Época de excesos, lujuria y ambición desatada. Los cultos oscuros realizan sus rituales más poderosos en Deseo.                                                                         |
+| **XVI**   | La Torre       | **Caída**                  | Ruina, revelación violenta y castigo divino. Mes temido: los secretos se exponen, las estructuras corruptas colapsan, y las traiciones salen a la luz. Las tormentas son más feroces en Caída.                     |
+| **XVII**  | La Estrella    | **Esperanza**              | Renovación, fe y visiones inspiradoras. Después de la destrucción de Caída, llega Esperanza: tiempo de reconstrucción, inspiración artística y sueños proféticos benévolos.                                        |
+| **XVIII** | La Luna        | **Sombras**                | Sueños, locura y magia. El velo entre el Overworld y las otras dimensiones se adelgaza. Las pesadillas son vívidas, y los hechizos lunares son más potentes. Época de ilusiones y engaños.                         |
+| **XIX**   | El Sol         | **Éxtasis**                | Iluminación, júbilo y claridad. Mes de festivales, celebraciones y revelaciones gozosas. La luz del sol parece más brillante, y las depresiones se disipan.                                                        |
+| **XX**    | El Juicio      | **Despertar**              | Renacimiento, redención y juicio final. Tiempo de evaluar el año transcurrido, perdonar ofensas y prepararse para el cierre del ciclo. Los muertos que regresan (por magia o milagro) suelen hacerlo en Despertar. |
+| **XXI**   | El Mundo       | **Plenitud**               | Culminación, unidad y cierre del año. Mes de gratitud, celebración de logros y preparación para El Umbral. Las grandes obras se completan en Plenitud.                                                             |
 
 ---
 ## 🌒 El Umbral: Tres Días Fuera del Tiempo

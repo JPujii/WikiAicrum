@@ -17,7 +17,7 @@
 ## 🕊️ Historia
 
 **Pasado:**
-Sir Bedivere es uno de los caballeros más antiguos y fieles al [[Rey Arthur Pendragon]]. Nacido en [[Astolat]], en una familia de guerreros devotos al ideal del Grial, Bedivere creció bajo el peso de la disciplina y el deber. Su destreza con la espada larga y su sentido inquebrantable de la lealtad lo convirtieron pronto en uno de los hombres de mayor confianza del monarca.
+Sir Bedivere es uno de los caballeros más fieles al [[Rey Arthur Pendragon]]. Nacido en [[Astolat]], en una familia de guerreros devotos al ideal del Grial, Bedivere creció bajo el peso de la disciplina y el deber. Su destreza con la espada larga y su sentido inquebrantable de la lealtad lo convirtieron pronto en uno de los hombres de mayor confianza del monarca.
 
 Bedivere sirve como comandante de las fuerzas reales, y su capacidad para mantener el orden en el caos de la batalla le valió el título de **Mariscal del Rey**. Fue él quien organizó las milicias del sur y estableció un código de honor de los caballeros bajo un estricto principio: “La fuerza sin justicia es tiranía.”
 
