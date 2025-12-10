@@ -6,24 +6,6 @@ _"El Grial... sí, el Grial nos espera más allá de las sombras. ¿Ves cómo br
 | ------ | ------------------------------------------ |
 |        | ![[teresa-ramos-teradiam-uriel-small.jpg]] |
 
-
-Es posiblemente el nacido de sangre mas antiguo vivo. Su historia se desconoce pues todos los que la conocian estan muertos y el no esta en las capacidades tampoco de contarla. Se conoce lo justo, se unio a la guardia muy joven, como cualquier otro bloodborne, destaco rapidamente por su linaje vampirico. Ya que los vampiros Acedia no suelen aparecer por el mundo es muy raro encontrarse con ellos incluso con sus bloodbornes, por eso mismo sus dotes resultaron fascinantes aunque no fue facil para el aprender a usarlos ya que no tenia ninguna referencia. Esto provoco que no sea el nacido de sangre mas habil usando sus poderes, pero si se consolido como un gran maestro espadachin.
-Poco mas se sabe ademas de eso, que años en el futuro tomaria bajo su tutela a azrael y le enseñaria todo lo que sabe. 
-graves secuelas por una batalla que tuvo contra un antiguio guardia de la noche que traiciono la orden y se paso al lado de los vampiros. Esta batalla le dejo algunas de las graves cicatrices que porta en la cara y tambien trastoco su mente. Actualmente se cree que es un caballero del reino de loegria y que su objetivo en vida es encontrar el grial para acabar con la maldicion de sombras que azota soa'rath
-
-> [!infobox]+ **Uriel di Teradiam**  
-> **Epítetos:**   
-> **Fábulas:**   
-> **Nacimiento:**  (312 años)  
-> **Nacimiento Terrestre:**   
-> **Estado actual:** Vivo  
-> **Afiliación:** [[Guardia de la Noche]]  
-> **Ocupación:** Guardia de la Noche, Cazador  
-> **Linaje / Casa:** ~~Sin Linaje~~ (Clan Acedia)  
-> **Religión:** Ateo  
-> **Arcano Mayor:**   
-
-
 > [!infobox]+ **Uriel di Teradiam**  
 > **Epítetos:** El Guardian Onírico, El Caballero Perdido  
 > **Fábulas:** Cazador de Sueños, Un Mentor Roto 
@@ -49,7 +31,7 @@ Sin ninguna referencia ni mentor de su mismo linaje, Uriel tuvo que aprender a c
 
 Décadas después, Uriel tomaría bajo su tutela a un joven Bloodborne iracundo y salvaje llamado **Azrael**. Durante años fue su maestro, padre sustituto y única figura de autoridad que el joven respetaba. Le enseñó todo lo que sabía sobre combate, supervivencia, control—forjando al cazador en que Azrael se convertiría. Su relación era compleja pero profunda: el mentor silencioso y el aprendiz explosivo.
 
-Todo cambió cuando un antiguo miembro de la Guardia, [[Audric Van Koch (sin hacer)]] —un cazador veterano en quien todos confiaban—**traicionó la orden y se pasó al lado de los vampiros**. Las razones se perdieron en la sangre que siguió. Uriel, como uno de los cazadores más experimentados, enfrentó al traidor en un duelo que se convirtió en leyenda oscura dentro de la Guardia.
+Todo cambió cuando un antiguo miembro de la Guardia, [[Audric Van Koch]] —un cazador veterano en quien todos confiaban—**traicionó la orden y se pasó al lado de los vampiros**. Las razones se perdieron en la sangre que siguió. Uriel, como uno de los cazadores más experimentados, enfrentó al traidor en un duelo que se convirtió en leyenda oscura dentro de la Guardia.
 
 La batalla fue catastrófica. Ambos guerreros se destrozaron mutuamente durante horas en una lucha que dejó un edificio entero en ruinas. Uriel sobrevivió—técnicamente. Pero las heridas que recibió fueron más allá de lo físico.
 

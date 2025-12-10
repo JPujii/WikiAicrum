@@ -1,5 +1,5 @@
 eliminar de la ecuacion ya que cumple la misma funcion que kay (amigo del rey)
-Decir que ha muerto o que esta enfermo en camado.
+Decir que ha muerto o que esta enfermo encamado.
 
 | Imagen |                          |
 | ------ | ------------------------ |

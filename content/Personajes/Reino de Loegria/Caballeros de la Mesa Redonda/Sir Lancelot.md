@@ -5,8 +5,8 @@
 
 > [!infobox]+ **Sir Lancelot**  
 > **Epítetos:** El Caballero Perfecto, El Escudo de la Reina, El Cisne de Loegria  
-> **Nacimiento:** II/XII/VIICDLI  (513 años)
-> **Nacimiento Terrestre**: 2/12/7451  
+> **Nacimiento:** II/XII/VIICDLXXXI  (483 años)
+> **Nacimiento Terrestre**: 2/12/7481  
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Residencia:** [[Camelot]]  

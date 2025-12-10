@@ -1,5 +1,9 @@
 # [[Reino de Loegria]]
 ## Dullahand
+
+| Imagen |                    |
+| ------ | ------------------ |
+|        | ![[dullahand.jpg]] |
 * Fragmentos errantes del alma del **Caballero Verde**, decapitado por **Gawain** en un duelo sagrado.  
   Tras su muerte, su espíritu no halló reposo: su cuerpo se quebró en incontables fragmentos que tomaron forma física, vagando por los caminos y los campos de batalla como **jinetes sin cabeza**, montados en corceles podridos cubiertos por armaduras oxidadas.  
   Cada Dullahand porta una linterna verde donde arde un fragmento de su antigua alma, buscando el resto para volver a ser completo.  
@@ -37,5 +41,11 @@
 
 # [[República de Soa'rath]]
 
+## Frankenstein
 
+| Imagen |                       |
+| ------ | --------------------- |
+|        | ![[Frankenstein.jpg]] |
+* 
 
+## slenderman

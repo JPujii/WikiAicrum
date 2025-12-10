@@ -60,6 +60,7 @@ Se mueve con gracia peligrosa de depredador. Fuma constantemente. Voz grave y á
 
 > [!infobox]+ **Vínculos**
 > **Amigos:** [[Nora Van Baskerville]], [[Uriel di Teradiam]]  
+> **Padre Maldito:** [[Taos]]
 ---
 
 * **Nora Van Baskerville:** Mantienen una dinámica de **hermanos que pelean pero sangrarían el uno por el otro**. Ella lo considera impulsivo y emocionalmente indisciplinado. Él la considera autocastigadora hasta la autodestrucción. Discuten constantemente sobre tácticas, filosofía, cómo vivir. Pero hay entendimiento profundo: ambos son los últimos supervivientes de una guerra perdida. En combate funcionan perfectamente—la furia de Azrael complementada por la precisión de Nora. Se salvan mutuamente constantemente.

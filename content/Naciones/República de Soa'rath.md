@@ -11,7 +11,7 @@ Aunque aparenta ser una república estable y diplomática, Soa'rath es en realid
 ---
 ## 📌 Datos Generales
 
-| **Capital**              | Vaigro                                                                                          |
+| **Capital**              | [[Vaigro]]                                                                                      |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |
 | **Gentilicio**           | Soa'rathiano/a                                                                                  |
 | **Sistema de Gobierno**  | República (aparente) / Oligarquía vampírica oculta (real)                                       |

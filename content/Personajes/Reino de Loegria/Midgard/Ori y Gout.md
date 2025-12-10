@@ -6,7 +6,7 @@
 > [!infobox]+ Ori y Gout
 > **Epítetos:** Manos Rápidas / Barbudo Grandullón  
 > **Fábulas**: "Uno piensa, el otro aplasta"
-> **Nacimiento:** Desconocido (≈ 257 años / ≈ 346 años) 
+> **Nacimiento:** Desconocido (≈ 257 años / ≈ 306 años) 
 > **Estado actual:** Vivo / Vivo  
 > **Afiliación:** [[Midgard]]  
 > **Ocupación:** Cazadores, Recolectores  

@@ -5,8 +5,8 @@
 
 > [!infobox]+ **Sir Lamorak**
 > **Epítetos:** El Relámpago de Londres, La Lanza de Sangre  
-> **Nacimiento:** XIII/XIII/VIICCXXXV (729 años)  
-> **Nacimiento Terrestre:** 13/13/7235        
+> **Nacimiento:** XIII/XIII/VIICDXLVIII (516 años)  
+> **Nacimiento Terrestre:** 13/13/7448        
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Reino de Loegria]]  
 > **Residencia:** [[London]]  
@@ -18,6 +18,7 @@
 
 ## 🕊️ Historia  
 
+**Pasado:**
 Sir Lamorak de Pelles, hijo del rey Pellinore y hermano de [[Sir Perceval]], creció bajo el peso de un linaje legendario. Desde joven destacó por su fuerza descomunal y su velocidad casi sobrehumana, convirtiéndose en uno de los caballeros más temidos del reino. Su reputación se forjó en incontables batallas, donde se dice que ha derrotado ejércitos enteros, enfrentando a decenas de enemigos sin mostrar signo de cansancio.
 
 Por su poder y lealtad incuestionable, Arturo le confió el gobierno de [[London]], una ciudad caótica y despiadada que Lamorak transformó en un bastión de orden férreo. Sin embargo, los rumores lo rodean: su longevidad, su resistencia inhumana y su mirada carmesí alimentan leyendas oscuras que pocos se atreven a pronunciar.

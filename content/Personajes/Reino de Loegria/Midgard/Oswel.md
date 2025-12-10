@@ -6,7 +6,7 @@
 > [!infobox]+ Oswel
 > **Epítetos:** El Jardinero Loco  
 > **Fábulas**: Amigo del Musgo  
-> **Nacimiento:** Desconocido (≈ 473 años) 
+> **Nacimiento:** Desconocido (≈ 293 años) 
 > **Estado actual:** Vivo  
 > **Afiliación:** [[Midgard]]  
 > **Ocupación:** Botánico, Herborista   
@@ -14,8 +14,6 @@
 > **Religión:** Ninguna  
 > **Arcano Mayor:** Desconocido  
 ---
-
-*Se dice que habló con el musgo y olvidó el nombre de los hombres*  
 ## 🕊️ Historia
 
 **Pasado:**
