@@ -1,4 +1,3 @@
-
 > *"El desierto no perdona. Nosotros tampoco."*
 
 Poco se sabe de ellos individualmente. No buscan fama ni se relacionan con el mundo exterior. Estos cuatro nombres han trascendido solo porque sus acciones fueron imposibles de ignorar, e incluso así sus nombres y arcanos son desconocidos.

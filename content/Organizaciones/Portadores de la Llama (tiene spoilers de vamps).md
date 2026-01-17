@@ -1,3 +1,14 @@
+*No todos los engendros son iguales. Algunos son almas perdidas que merecen piedad. Otros son abominaciones que deben ser destruidas. Y algunos... algunos deberían ser dejados en paz, observados desde lejos, porque intentar eliminarlos sería peor que tolerarlos.*
+
+*Pero el pueblo no necesita saber estas distinciones. El pueblo necesita dormir tranquilo creyendo que los Portadores de la Llama lo tienen todo bajo control.*
+
+*— Manual no oficial de los Maestros Portadores*
+
+![[zp-zhang-lake.jpg]]
+> Representación Portadores de la Llama
+> - Por Anónimo
+---
+
 **Una orden sagrada que camina entre la vida y la muerte, guiando las almas al ciclo eterno bajo el manto de la noche.**
 
 Los **Portadores de la Llama**—conocidos popularmente como **Lampareros**—son una organización ancestral de Soa'rath que cumple una función vital: **conducir a los muertos hacia su próxima vida** mediante rituales sagrados, evitando que las almas perdidas transformen sus cuerpos en abominaciones nocturnas.
@@ -132,3 +143,6 @@ Cada Lamparero veterano eventualmente enfrenta esta verdad. Algunos se convencen
 ---
 
 _"Portamos la llama para los muertos, no para juzgar a los vivos. Pero algunos días, la llama tiembla en nuestras manos, y nos preguntamos si estamos iluminando el camino... o alimentando las sombras."_
+
+[^1]: Pintura del trabajo Portadores de la Llama
+	- Anónimo

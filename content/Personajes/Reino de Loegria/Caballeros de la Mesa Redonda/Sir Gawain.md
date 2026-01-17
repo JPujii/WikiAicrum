@@ -22,7 +22,7 @@ Sir Gawain, descendiente de la siempre misteriosa Morgana, es uno de los caballe
 
 Desde joven mostró un talento natural para el combate, pero también una empatía inusual para un guerrero. Fue instruido en Camelot, donde su lealtad inquebrantable hacia el rey y su hermano lo convirtieron en un ejemplo de virtud caballeresca.
 
-Durante una expedición junto a Sir Bors, ambos fueron maldecidos por el **Dragón Escarlata**. Desde entonces, Gawain carga con el peso de un brazo marcado por fuego dracónico, un don y una tortura. La maldición, aunque dolorosa, simboliza la voluntad inquebrantable de su espíritu: avanzar siempre, sin rendirse, incluso si el precio es su propio cuerpo.
+Durante una expedición junto a Sir Bors, ambos fueron maldecidos por el **[Dragón Escarlata]([[Aurelius Vectran Aurum]])**. Desde entonces, Gawain carga con el peso de un brazo marcado por fuego dracónico, un don y una tortura. La maldición, aunque dolorosa, simboliza la voluntad inquebrantable de su espíritu: avanzar siempre, sin rendirse, incluso si el precio es su propio cuerpo.
 
 ---
 ## ⚔️ Personalidad

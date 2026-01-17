@@ -9,11 +9,11 @@ _"¿Por qué debería moverme cuando el mundo viene a mí? Los siglos me han ens
 > [!infobox]+ **Lorelei Vesper Somnius** 
 > **Epítetos:** La Bella Durmiente  
 > **Fábulas:** La Reina del Letargo, Un Susurro Olvidado  
-> **Nacimiento:** Desconocido (~+1500 años)  
-> **Estado actual:** Muerta (Vampira Antigua) 
+> **Nacimiento:** Desconocido   
+> **Estado actual:** Muerta (Vampira Antigua)  
 > **Afiliación:** [[La Mascarada]]  
 > **Ocupación:** Patricia, Coleccionista de Secretos, Tejedora de Sueños  
-> **Linaje / Casa:** Clan Acedia  
+> **Linaje / Casa:** Líder de Clan Acedia  
 > **Religión:** Fe de Caín  
 > **Arcano Mayor:** Desconocido  
 
@@ -21,7 +21,7 @@ _"¿Por qué debería moverme cuando el mundo viene a mí? Los siglos me han ens
 ## 🕊️ Historia
 
 **Pasado:**
-Lorelei Vesper Somnius es una de las figuras más **enigmáticas y menos comprendidas** entre los Antiguos de Soa'rath. Con aproximadamente mil años de existencia, debería ser una presencia dominante en La Mascarada—pero en cambio es casi un fantasma, una sombra que se menciona en susurros pero rara vez se ve.
+Lorelei Vesper Somnius es una de las figuras más **enigmáticas y menos comprendidas** entre los Antiguos de Soa'rath. Con tantos años de existencia, debería ser una presencia dominante en La Mascarada—pero en cambio es casi un fantasma, una sombra que se menciona en susurros pero rara vez se ve.
 
 Su historia está envuelta en vacío deliberado. Nadie recuerda exactamente cuándo apareció por primera vez, quién fue su creador, o qué hizo durante sus primeros siglos. Los registros sobre ella son extrañamente escasos, incompletos, como si alguien hubiera borrado meticulosamente su pasado... o como si simplemente nunca hiciera nada lo suficientemente memorable para registrar.
 

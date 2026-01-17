@@ -47,6 +47,7 @@ Más allá de la hidrofobia, Aicrum se caracteriza por una **realidad maleable**
 
 → _Ver: [[Supersticiones Conocidas]]_
 → _Ver: [[Engendros Conocidos]]_
+→ _Ver: [[Catástrofes de origen]]_
 
 ---
 ### Naciones Principales

@@ -1,9 +1,3 @@
-meter cosas de hollow knight, pero sus formas grotestcas estilo
-https://www.instagram.com/p/DBO0mVORk78/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
-
-
-**Una nación milenaria surgida de las sombras, donde la muerte es venerada y la noche devora a los incautos.**
-
 La **República de Soa'rath** es la civilización más antigua de Aicrum, fundada hace más de siete milenios como refugio para la supervivencia colectiva en una época de caos absoluto. Su sociedad se erige sobre el respeto absoluto por el ciclo natural de vida y muerte, pero bajo este velo filosófico se oculta una verdad oscura: es una **nación-granja** gobernada secretamente por vampiros desde su fundación.
 
 Aunque aparenta ser una república estable y diplomática, Soa'rath es en realidad una sofisticada conspiración inmortal. Sus ciudadanos mortales viven ignorantes de que son ganado cultivado, mientras los **Siete Clanes** vampíricos dirigen no solo esta nación, sino que infiltran los gobiernos de todo Aicrum desde las sombras.
@@ -16,7 +10,7 @@ Aunque aparenta ser una república estable y diplomática, Soa'rath es en realid
 | **Gentilicio**           | Soa'rathiano/a                                                                                  |
 | **Sistema de Gobierno**  | República (aparente) / Oligarquía vampírica oculta (real)                                       |
 | **Órgano de Gobierno**   | Senado de la República (fachada) / La Mascarada - Consejo de los Siete Clanes (verdadero poder) |
-| **Religiones populares** | Culto de la Muerte Eterna (mortal) / Fe de Caín (vampírica, secreta)                            |
+| **Religiones populares** | [[Religiones de Soa'rath (tiene spoilers de vamps)]] / Fe de Caín (vampírica, secreta)          |
 | **Lema nacional**        | _"En la muerte encontramos propósito; en el ciclo, eternidad"_                                  |
 | **Bandera**              | ![[CoaMaker 2.png]]                                                                             |
 ### ⚰️ Los Pecados Imperdonables

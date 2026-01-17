@@ -1,4 +1,4 @@
-> *"La arena es pureza. La sed es fuerza. El desierto es madre."*
+**"La arena es pureza. La sed es fuerza. El desierto es madre."**
 
 ---
 ## 🏜️ Introducción

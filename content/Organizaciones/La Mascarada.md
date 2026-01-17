@@ -82,7 +82,7 @@ _"La mayor victoria del vampiro no es la fuerza, sino que el mundo haya olvidado
 **2. CLAN DE LA SOBERBIA (Superbia)**
 
 - **Maldición Primaria**: Arrogancia insoportable, incapacidad de aceptar estar equivocados
-- **Maldición Secundaria**: **Rechazo de lo Inferior** - No pueden alimentarse de "sangre indigna" (personas que consideren inferiores a ellos). Su orgullo literalmente les impide sustentarse de ciertos humanos, limitando sus opciones
+- **Maldición Secundaria**: **Rechazo de lo Inferior** - No pueden alimentarse de "sangre indigna" (personas que consideren inferiores). Su orgullo literalmente les impide sustentarse de ciertos humanos, limitando sus opciones
 - **Características:**
 	- **Presencia Dominante**: Usan su voz y gestos para influenciar a la gente (Command DnD5e)
 	- **Maestría de Habilidades**: Aprenden disciplinas vampíricas más rápido que otros clanes
