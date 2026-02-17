@@ -1,15 +1,15 @@
 
-| Imagen       |                         |
-| ------------ | ----------------------- |
-|              | ![[descargar (2).jpeg]] |
+| Imagen |                         |
+| ------ | ----------------------- |
+|        | ![[descargar (2).jpeg]] |
 
 > [!infobox]+ **Arthur Pendragon**
 > **Epítetos:** El Rey Eterno, El Portador de la Espada, El Elegido  
 > **Nacimiento:** Desconocido (≈ 3764 años)  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia**: [[Camelot]]  
-> **Ocupación:** Monarca, Caballero, Miembro de los [[Caballeros de la Mesa Redonda]]  
+> **Ocupación:** Monarca, Caballero  
 > **Linaje / Casa:** Casa Pendragon  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Emperador

@@ -59,7 +59,7 @@ La geografía de Soa'rath refleja su naturaleza dual: sus ciudades mortales son 
 	- **Flores de Olvido:** Flores pálidas de cementerio para coronas funerarias
 	- **Sal de Hueso:** Mineral sagrado para protección y preservación
 	- **Sangre de Tierra:** Arcilla roja para cerámicas y máscaras mortuorias
-- **Ciudades importantes:** [Por definir]
+- **Ciudades importantes:** [[Vaigro]], [[Nomfort]], [[Gehena]], [[Lillhelm]], [[Aldermore]]
 
 Las fronteras de Soa'rath son porosas durante la noche. Criaturas sobrenaturales rezagadas frecuentemente las atraviesan hacia las naciones vecinas, lo que ha creado zonas fronterizas peligrosas y una industria de cazadores de monstruos en los países limítrofes #post .
 
@@ -306,30 +306,17 @@ Muchos vampiros lo buscan, algunos para consumirlo, otros para destruirlo.
 
 La diplomacia de Soa'rath es su mayor obra maestra: una nación gobernada por monstruos que logra ser vista como **neutral, estable y colaborativa** por el resto del mundo.
 
-#### **Hostiles:**
-
-- **[[Reino de Loegria]]:** Los valores opuestos crean tensión constante
-    - Loegria venera el sol y la pureza; Soa'rath abraza la noche y la muerte
-    - Loegria prohibe la tecnología; Soa'rath es pragmática
-    - Escaramuzas fronterizas frecuentes cuando "monstruos" cruzan hacia Loegria
-    - Los Caballeros del Grial han intentado varias "cruzadas purificadoras"
-##### **Vigilancia Mutua:**
-- **[[Imperium Deus Ex Machina]]:** Relación antigua y compleja
-    - Ambas son las naciones más antiguas registradas
-    - Coexistieron durante milenios
-    - Actualmente Soa'rath vigila al Imperium de lejos debido a su aislamiento prolongado
-    - Los vampiros **saben** que el Imperium podría despertar en cualquier momento
-    - Mantienen espías cerca de sus fronteras
-
-#### **Neutrales:** #post 
-
-- **[[Tierras Errantes]]:** Relaciones comerciales mínimas
-- **Reino de las Mareas:** Contacto diplomático ocasional
-- **[Otras naciones]:** Soa'rath mantiene embajadas en prácticamente todos los países
+#### Cautela:
+- [[Imperium Deus Ex Machina]]
+- **[[Reino de Loegria]]**
+#### Neutrales:
+- **[[Tierras Errantes]]** 
+- [[Liga Elbil]]
+- [[Reino de Círea]]
 
 ### **La Red Invisible**
 
-Aunque oficialmente Soa'rath mantiene relaciones normales, la realidad es que tienen **agentes vampíricos infiltrados** en:
+Aunque oficialmente Soa'rath mantiene relaciones normales, la realidad es que tienen **agentes vampíricos infiltrados** en todas las naciones, ya sea en:
 
 - Cortes reales
 - Senados y parlamentos
@@ -338,25 +325,6 @@ Aunque oficialmente Soa'rath mantiene relaciones normales, la realidad es que ti
 - Instituciones religiosas
 
 Esta red no responde a Soa'rath como nación, sino a **La Mascarada** como organización global vampírica. Su objetivo no es la conquista territorial, sino el **control invisible del mundo mortal**.
-
----
-## ⚠️ Secretos y Verdades Ocultas
-
-### **Lo que los Mortales No Saben:**
-
-1. Sus líderes son vampiros inmortales
-2. La nación fue creada específicamente como una granja humana
-3. El "culto a la muerte" fue diseñado para normalizar desapariciones
-4. Las "criaturas nocturnas" que temen incluyen a sus propios gobernantes
-5. Hay vampiros infiltrados en los gobiernos de todo el mundo
-
-### **Lo que Ni los Vampiros Saben:**
-
-1. El verdadero destino de Caín
-2. Si la maldición puede revertirse
-3. Si el mito de "La Mascarada como maldición" es real
-4. Cuántos vampiros existen realmente en todo Aicrum
-5. Si Caín planeó todo desde el principio o si su desaparición fue imprevista
 
 ---
 _"En Soa'rath, todos duermen tranquilos por la noche... excepto aquellos que saben la verdad."_

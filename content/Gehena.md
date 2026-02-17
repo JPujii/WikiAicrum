@@ -1,1 +1,0 @@
-![[Gehena.jpg]]

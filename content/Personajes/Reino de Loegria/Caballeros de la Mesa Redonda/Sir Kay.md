@@ -7,9 +7,9 @@
 > **Epítetos:** La Mano de Camelot, El Portaestandarte Solar
 > **Nacimiento:** Desconocido (≈ 3697 años)      
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Camelot]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** ~~Sin linaje~~  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Templanza   

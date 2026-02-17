@@ -10,9 +10,9 @@ Decir que ha muerto o que esta enfermo encamado.
 > **Epítetos:** El Rey Errante, El Guardián del Laberinto  
 > **Nacimiento:** Desconocido (≈ 3598 años)  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Winchester]]  
-> **Ocupación:** Monarca, Caballero, Miembro de los [[Caballeros de la Mesa Redonda]]  
+> **Ocupación:** Monarca, Caballero    
 > **Linaje / Casa:** Casa de Pelles  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Juicio

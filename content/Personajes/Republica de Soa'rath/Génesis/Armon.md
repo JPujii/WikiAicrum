@@ -4,7 +4,7 @@ _"Me preguntas por qué sigo a Abel sin cuestionar. Simple: él me encontró cua
 
 | Imagen     |                                     |     |
 | ---------- | ----------------------------------- | --- |
-| Humano     | ![[descargar (2).jpg]]              |     |
+| Humano     | ![[descargar (5).jpg]]              |     |
 | Licantropo | ![[ankit-garg-wwk-potrait-01.webp]] |     |
 
 > [!infobox]+ **Armon** 

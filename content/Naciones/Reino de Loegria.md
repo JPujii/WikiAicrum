@@ -133,7 +133,7 @@ Por eso los loegrianos nunca cortan madera de esos árboles: dicen que su savia 
 #### **La Doncella de Piedra**
 
 En la catedral de [[Camelot]] hay una estatua sin nombre de una mujer con una copa en las manos.  
-Los fieles creen que es **Viviana**, la amante de Merlín.
+Los fieles creen que es **[[Viviana]]**, la amante de Merlín.
 Se dice que, cuando la naturaleza está en peligro, lágrimas verdaderas caen de sus ojos de mármol.
 
 ---
@@ -184,8 +184,9 @@ Solo se comunican con gestos o campanas pequeñas. Se dice que romper el silenci
 #### Enemigos:
 - [[Imperium Deus Ex Machina]]
 #### Hostiles:
-* [[República de Soa'rath]]
+* [[República de Soa'rath (tiene spoilers de vamps)]]
+* [[Liga Elbil]]
 #### Neutrales:
 - [[Tierras Errantes]]
-- Reino de las Mareas
+- [[Reino de Círea]]
 

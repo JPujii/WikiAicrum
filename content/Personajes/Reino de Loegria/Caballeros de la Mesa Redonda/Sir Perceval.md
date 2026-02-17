@@ -9,8 +9,8 @@ miembro de lo [[Caballeros de la Mesa Redonda]]
 > **Nacimiento:** XII/XX/VIIDCCLXXX (184 años)  
 > **Nacimiento Terrestre**: 12/20/7780  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa de Pelles  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Justicia  

@@ -43,4 +43,4 @@
 - **Tus manos desnudas jamás deben tocar el agua**: quien lo hace debe purificarse o entregar la mano contaminada al río.
 # [[Imperium Deus Ex Machina]]
 
-# [[República de Soa'rath]]
+# [[República de Soa'rath (tiene spoilers de vamps)]]

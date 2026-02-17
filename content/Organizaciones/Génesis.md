@@ -4,6 +4,6 @@ Lo verdaderamente radical de Génesis es su composición: **vampiros y licántro
 
 La organización opera en **células descentralizadas** de 2 miembros dispersas globalmente, coordinadas por un puñado de lugartenientes llamados "Los Apóstoles". Con apenas 12 operativos en total, Génesis compensa sus números limitados con habilidad excepcional, fanatismo absoluto, y la ventaja táctica de una alianza que nadie más ha logrado.
 
-Sus operaciones incluyen rastrear a Caín mediante exploración de las [[Dimensiones]], sabotear La Mascarada, liberar refugiados de [[República de Soa'rath]], y eliminar vampiros de alto rango cuando es estratégicamente necesario. 
+Sus operaciones incluyen rastrear a Caín mediante exploración de las [[Dimensiones]], sabotear La Mascarada, liberar refugiados de [[República de Soa'rath (tiene spoilers de vamps)]], y eliminar vampiros de alto rango cuando es estratégicamente necesario. 
 
 ![[Genesis.jpg]]

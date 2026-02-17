@@ -1,7 +1,7 @@
 **"En Soa'rath, todos los caminos llevan a la muerte. Solo difieren en cómo caminamos hacia ella."**
 _— Proverbio popular_
 
-Las religiones de [[República de Soa'rath]] son notablemente diversas en forma pero unificadas en tema: **todas giran en torno a la muerte**. No existe una religión oficial del estado, y la república garantiza libertad de culto.
+Las religiones de [[República de Soa'rath (tiene spoilers de vamps)]] son notablemente diversas en forma pero unificadas en tema: **todas giran en torno a la muerte**. No existe una religión oficial del estado, y la república garantiza libertad de culto.
 
 ---
 ## El Culto de la Muerte Eterna

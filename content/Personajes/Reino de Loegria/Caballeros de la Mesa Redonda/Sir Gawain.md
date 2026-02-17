@@ -8,9 +8,9 @@
 > **Nacimiento:** VIII/XIX/VIIDCXXXIII (331 años)  
 > **Nacimiento Terrestre**: 8/19/7633   
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Camelot]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa Le Fay  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Fuerza   

@@ -8,9 +8,9 @@
 > **Nacimiento:** XIII/XIII/VIICDXLVIII (516 años)  
 > **Nacimiento Terrestre:** 13/13/7448        
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[London]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa de Pelles  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Muerte   

@@ -56,7 +56,7 @@ La Mascarada mantiene el secreto mediante:
 
 ### **Alcance Global**
 
-Aunque fundada en la [[República de Soa'rath]], La Mascarada se ha expandido por todo Aicrum. Existen vampiros infiltrados en prácticamente todas las naciones del mundo, respondiendo no a los intereses de Soa'rath como país, sino a **La Mascarada como organización supranacional**. Su objetivo no es conquista territorial, sino **control invisible perpetuo**.
+Aunque fundada en la [[República de Soa'rath (tiene spoilers de vamps)]], La Mascarada se ha expandido por todo Aicrum. Existen vampiros infiltrados en prácticamente todas las naciones del mundo, respondiendo no a los intereses de Soa'rath como país, sino a **La Mascarada como organización supranacional**. Su objetivo no es conquista territorial, sino **control invisible perpetuo**.
 
 ### **El Mito de la Maldición**
 

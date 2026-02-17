@@ -109,7 +109,7 @@ La situación se ha agravado por una **intensificación reciente de la propagand
 ---
 ### **Bases y Refugios**
 
-La Guardia opera desde **fortalezas ocultas** esparcidas por la [[República de Soa'rath]]:
+La Guardia opera desde **fortalezas ocultas** esparcidas por la [[República de Soa'rath (tiene spoilers de vamps)]]:
 
 - Antiguos monasterios abandonados
 - Catacumbas olvidadas

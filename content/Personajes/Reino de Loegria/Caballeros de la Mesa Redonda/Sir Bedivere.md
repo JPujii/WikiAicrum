@@ -8,9 +8,9 @@
 > **Nacimiento:** VII/XII/VIIDCXXXVIII (326 años)   
 > **Nacimiento terrestre:** 7/12/7638  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Astolat]]  
-> **Ocupación:** Caballero, Miembro de los [[Caballeros de la Mesa Redonda]]  
+> **Ocupación:** Caballero   
 > **Linaje / Casa:** Casa de Astolat  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Carro  

@@ -8,7 +8,7 @@ _"La disciplina no es fuerza—es miedo. Cada día me niego a comer porque sé q
 
 > [!infobox]+ **Nora Van Baskerville**  
 > **Epítetos:** Caperucita Roja  
-> **Fábulas:** La Bestia Encadenada, Sabueso Nocturno   
+> **Fábulas:** La Bestia Encadenada, Sabueso Nocturno, Portadores de Plata     
 > **Nacimiento:** X/XIII/VIIDCCLXVIII (196 años)  
 > **Nacimiento Terrestre:** 10/13/7768  
 > **Estado actual:** Viva  

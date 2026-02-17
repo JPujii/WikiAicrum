@@ -22,7 +22,7 @@
 ## 🕊️ Historia
 
 **Pasado:**
-Scarlett Crimson es una de las pocas vástagas conocidas del [[Aurelius Vectran Aurum]], una aberración que no debería haber nacido. Su mera existencia es un recordatorio del pacto maldito entre los hombres y las bestias antiguas, un error del que la historia misma intenta olvidarse.
+Scarlett Crimson es una de las pocas vástagas conocidas de [[Aurelius Vectran Aurum]], una aberración que no debería haber nacido. Su mera existencia es un recordatorio del pacto maldito entre los hombres y las bestias antiguas, un error del que la historia misma intenta olvidarse.
 
 Desde su infancia fue rechazada, temida y cazada. Su cuerpo, marcado por escamas y fuego, era para los humanos un presagio de destrucción. Vagó sin rumbo hasta que fue acogida por **Midgard**, donde por primera vez fue tratada no como un monstruo, sino como una persona. Allí encontró un propósito y un lugar al que llamar hogar.
 

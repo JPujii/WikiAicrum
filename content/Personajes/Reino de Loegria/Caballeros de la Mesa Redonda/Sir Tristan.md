@@ -8,9 +8,9 @@
 > **Nacimiento:** XI/XXIII/VIIDCXLIV (320 años)  
 > **Nacimiento Terrestre:** 11/23/7644  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Avalon]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Vigía de Avalon  
+> **Ocupación:** Caballero, Vigía de Avalon  
 > **Linaje / Casa:** Casa de Lyonesse  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** Los Enamorados

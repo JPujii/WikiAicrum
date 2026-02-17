@@ -1,2 +1,0 @@
-Antiguo fuerte 
-![[Nomfort.jpg]]

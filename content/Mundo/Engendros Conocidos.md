@@ -9,6 +9,13 @@
   Tras su muerte, su espíritu no halló reposo: su cuerpo se quebró en incontables fragmentos que tomaron forma física, vagando por los caminos y los campos de batalla como **jinetes sin cabeza**, montados en corceles podridos cubiertos por armaduras oxidadas.  
   Cada Dullahand porta una linterna verde donde arde un fragmento de su antigua alma, buscando el resto para volver a ser completo.  
   Dicen que cuando uno pronuncia el nombre del Caballero Verde ante ellos, detienen su marcha... como si recordaran, por un instante, quién fueron. Pero el nombre de este hace mucho tiempo que se perdió en el tiempo.
+## El Caballero de la Frontera
+
+| Imagen |                       |
+| ------ | --------------------- |
+|        | ![[death knight.png]] |
+
+* El **Caballero de la Frontera** es una figura solitaria que patrulla eternamente el límite entre Loegria y Soa'rath. Vestido con armadura completa oxidada y portando un espadón antiguo, este guardián silencioso elimina cualquier criatura de Soa'rath que intente cruzar hacia territorio loegriano. No habla, no descansa, no duerme. Es un **cascarón vacío**, una armadura animada sin mente ni alma, que solo responde a un imperativo primordial: proteger la frontera. No distingue entre amenazas reales e inofensivas; simplemente detecta intrusiones y las erradica. Los viajeros que cruzan la frontera sin autorización oficial descubren demasiado tarde que el Caballero no hace preguntas ni acepta explicaciones. Solo ataca. Algunos creen que fue un héroe antiguo de Loegria que juró defender el reino incluso después de la muerte. Otros piensan que es un constructo mágico olvidado de la guerra antigua. Nadie sabe con certeza. Lo único seguro es que sigue cumpliendo su deber, siglo tras siglo, sin descanso ni piedad.
 ## Los Barghest de Leonis
 
 - Perros espectrales negros con ojos rojos. Aparecen en la niebla antes de una muerte noble. A veces guían a los héroes al más allá.
@@ -45,7 +52,7 @@
 # [[Imperium Deus Ex Machina]]
 
 ---
-# [[República de Soa'rath]]
+# [[República de Soa'rath (tiene spoilers de vamps)]]
 
 ---
 ## Ghouls
@@ -81,7 +88,7 @@
 | Imagen |                            |
 | ------ | -------------------------- |
 |        | ![[pedro-sena-family.jpg]] |
-* Una mujer que perdió a sus hijos a sus hijos en el parto, dicen que murió de la pena al saber la noticia. Vaga por el mundo buscando a bebes recién nacidos y atacando a mujeres embarazadas.
+* Una mujer que perdió a sus hijos en el parto, dicen que murió de la pena al saber la noticia. Vaga por el mundo buscando a bebes recién nacidos y atacando a mujeres embarazadas.
 ---
 ## El Niño del Pozo
 

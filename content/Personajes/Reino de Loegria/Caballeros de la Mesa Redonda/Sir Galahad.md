@@ -9,8 +9,8 @@
 > **Nacimiento:** I/X/VIIDCCCXXVII (137 años)  
 > **Nacimiento Terrestre**: 1/10/7827  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa del Lago  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Fuerza  

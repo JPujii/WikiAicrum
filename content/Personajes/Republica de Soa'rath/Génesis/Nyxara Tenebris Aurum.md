@@ -17,7 +17,7 @@ _"Soy mortal rodeada de inmortales. Me miran con desprecio, asumiendo que mi vid
 > **Ocupación:** Matriarca de la Casa Aurum (oficial) / Apóstol de Génesis (oculto) 
 > **Linaje / Casa:** Casa Aurum  
 > **Religión:** Atea  
-> **Arcano Mayor:** La Sacerdotisa  
+> **Arcano Mayor:** Desconocido  
 
 ---
 ## 🕊️ Historia

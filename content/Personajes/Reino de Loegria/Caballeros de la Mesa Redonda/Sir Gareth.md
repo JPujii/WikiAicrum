@@ -8,9 +8,9 @@
 > **Nacimiento:** II/XI/VIIDCXXXVII (327 años)  
 > **Nacimiento Terrestre**: 4/11/7637  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Bedegraine]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa Le Fay  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** La Justicia  

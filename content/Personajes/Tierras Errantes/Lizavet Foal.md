@@ -4,7 +4,7 @@
 |        | ![[anna-kaplan-lizzy.webp]] |
 
 > [!infobox]+ **Lizavet Foal**  
-> **Epítetos:** _Ojos de Bruma_  
+> **Epítetos:** Ojos de Bruma  
 > **Nacimiento:** XX/0/VIIDCCXXX (234 años)  
 > **Nacimiento Terrestre:** 20/0/7730  
 > **Estado actual:** Viva  

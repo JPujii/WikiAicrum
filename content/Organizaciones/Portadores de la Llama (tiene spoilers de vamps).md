@@ -21,7 +21,7 @@ Son los únicos ciudadanos que caminan libremente después del anochecer, proteg
 | **Nombre Oficial** | Orden de los Portadores de la Llama                |
 | ------------------ | -------------------------------------------------- |
 | **Nombre Popular** | Lampareros                                         |
-| **Fundación**      | Primeros siglos de [[República de Soa'rath]]       |
+| **Fundación**      | Primeros siglos de [[República de Soa'rath (tiene spoilers de vamps)]]       |
 | **Símbolo**        | Una lámpara ardiendo sobre una espiral             |
 | **Lema**           | _"De la ceniza a la cuna, del cuerpo al espíritu"_ |
 

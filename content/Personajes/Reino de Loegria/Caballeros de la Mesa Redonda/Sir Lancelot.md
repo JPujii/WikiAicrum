@@ -8,9 +8,9 @@
 > **Nacimiento:** II/XII/VIICDLXXXI  (483 años)
 > **Nacimiento Terrestre**: 2/12/7481  
 > **Estado actual:** Vivo  
-> **Afiliación:** [[Reino de Loegria]]  
+> **Afiliación:** [[Caballeros de la Mesa Redonda]]  
 > **Residencia:** [[Camelot]]  
-> **Ocupación:** Miembro de los [[Caballeros de la Mesa Redonda]], Caballero  
+> **Ocupación:** Caballero  
 > **Linaje / Casa:** Casa del Lago  
 > **Religión:** Custodio del Grial  
 > **Arcano Mayor:** El Ermitaño
