@@ -55,8 +55,8 @@ Más allá de la hidrofobia, Aicrum se caracteriza por una **realidad maleable**
 - **[[Reino de Loegria]]:** Monarquía medieval tecnófoba y profundamente espiritual.
 - **[[Imperium Deus Ex Machina]]:** Potencia tecnológica que abraza el progreso mecánico.
 - **[[Tierras Errantes]]:** Zona devastada entre ambas naciones, hogar de nómadas y ruinas antiguas.
-- **[[Reino de las Mareas]]:** _(Neutral, aún en desarrollo)_
-- **Otras naciones:** _(Pendientes de documentar)_
+- **[[Liga Elbil]]:** La nación más segura del mundo.
+- [[Reino de Círea]]**:**
 
 ---
 

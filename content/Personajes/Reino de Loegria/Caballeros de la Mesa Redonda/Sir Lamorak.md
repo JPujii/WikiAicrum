@@ -39,7 +39,7 @@ Lamorak es un hombre alto y de complexión poderosa, de cabello rubio largo y mi
 ## 🤝 Relaciones
 
 > [!infobox]+ **Vínculos**
-> **Padres:** [[Rey Pellinore (cambiar)]]  
+> **Padres:** [[Rey Pellinore]]  
 > **Hermanos:** [[Sir Perceval]]  
 > **Mejores amigos**: [[Sir Galahad]], [[Sir Gawain]]  
 ---

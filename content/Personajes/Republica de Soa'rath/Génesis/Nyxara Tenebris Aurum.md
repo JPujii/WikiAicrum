@@ -10,8 +10,8 @@ _"Soy mortal rodeada de inmortales. Me miran con desprecio, asumiendo que mi vid
 > [!infobox]+ **Nyxara Tenebris Aurum** 
 > **Epítetos:** _La Señora de las Sombras_, _La Reina Silenciosa_   
 > **Fábulas:** _La Esposa que No Era Esposa_, _La Serpiente en el Tesoro_, _La Noche que Devoró al Dragón_  
-> **Nacimiento:** XVII/XVIII/VMMCDXLV
-> **Nacimiento terrestre:** 17/18/7445  
+> **Nacimiento:** XVII/XVIII/VMMDXLV (419 años)
+> **Nacimiento terrestre:** 17/18/7545  
 > **Estado actual:** Viva  
 > **Afiliación:** [[Génesis]] (secreto) / Casa Aurum (aparente)  
 > **Ocupación:** Matriarca de la Casa Aurum (oficial) / Apóstol de Génesis (oculto) 

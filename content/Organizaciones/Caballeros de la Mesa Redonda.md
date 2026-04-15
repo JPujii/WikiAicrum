@@ -14,7 +14,7 @@ Los 12 miembros y sus herederos:
 |        Caballero         |      Escudero       |
 | :----------------------: | :-----------------: |
 | [[Rey Arthur Pendragon]] | [[Olwen Pendragon]] |
-|    [[Rey Pellinore (cambiar)]]     |                     |
+|    [[Rey Pellinore]]     |                     |
 |       [[Sir Kay]]        |                     |
 |       [[Sir Bors]]       |                     |
 |      [[Sir Gawain]]      |                     |

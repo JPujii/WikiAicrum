@@ -9,7 +9,7 @@ _"¿Amor? El amor es debilidad disfrazada de fortaleza. Una vulnerabilidad que t
 > **Epítetos:** La Rosa Blanca, La Flor Marchita    
 > **Fábulas:** La belleza que no vino sin sufrimiento, La Margarita     
 > **Nacimiento:** Desconocido (~-1000 años)   
-> **Estado actual:** Muerto (Vampira Completa)  
+> **Estado actual:** No-Muerto (Vampira Completa)  
 > **Afiliación:** [[Génesis]]   
 > **Ocupación:** Apóstol de Genesis    
 > **Linaje / Casa:** Clan Gula     

@@ -10,7 +10,7 @@ _"¿Sabes cuántas veces he intentado morir? Quince. Quince veces en novecientos
 > **Epítetos:** La Onírica de sangre  
 > **Fábulas:** El abrazo siempre dado, Nueve Siglos de Pérdida, En busca de la muerte verdadera  
 > **Nacimiento:** Desconocido (~+900 años)  
-> **Estado actual:** Muerta (Vampira Completa)  
+> **Estado actual:** No-Muerto (Vampira Completa)  
 > **Afiliación:** [[Génesis]]   
 > **Ocupación:** Apóstol de Génesis   
 > **Linaje / Casa:** Clan Acedia   

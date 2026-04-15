@@ -36,8 +36,6 @@ En este contexto surgieron **Los Fundadores**: un grupo de ingenieros, científi
 
 La población, traumatizada y temerosa, aceptó colectivamente el **Contrato de Seguridad**: un pacto social donde cada ciudadano renunciaba a su privacidad a cambio de protección absoluta del Estado.
 
-### **La Era del Progreso Vigilado**
-
 Durante los milenios siguientes, la Liga Elbil se desarrolló tecnológicamente de manera exponencial. La necesidad de mejores sistemas de control impulsó innovaciones en muchos campos.
 
 Con el tiempo, generaciones enteras crecieron sin conocer otra forma de vida. La vigilancia se normalizó completamente, y la Liga Elbil se convirtió en un ejemplo de "eficiencia y orden" que otras naciones admiraban... o temían.
